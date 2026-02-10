@@ -19,6 +19,36 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Asobancaria01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d10ce3471934d0899d205254993e644}{%
+           family={{Asobancaria}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d10ce3471934d0899d205254993e644}
+      \strng{fullhash}{7d10ce3471934d0899d205254993e644}
+      \strng{fullhashraw}{7d10ce3471934d0899d205254993e644}
+      \strng{bibnamehash}{7d10ce3471934d0899d205254993e644}
+      \strng{authorbibnamehash}{7d10ce3471934d0899d205254993e644}
+      \strng{authornamehash}{7d10ce3471934d0899d205254993e644}
+      \strng{authorfullhash}{7d10ce3471934d0899d205254993e644}
+      \strng{authorfullhashraw}{7d10ce3471934d0899d205254993e644}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Banca y Economía}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
+      \endverb
+    \endentry
     \entry{Inclusionfinan01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
@@ -75,7 +105,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Reporte de Inclusión Financiera 2023: nuevos acances y retos en Colombia}
+      \field{title}{Reporte de Inclusión Financiera 2023: nuevos alcances y retos en Colombia}
       \field{year}{2023}
       \verb{urlraw}
       \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
@@ -115,6 +145,39 @@
       \endverb
       \verb{url}
       \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
+      \endverb
+    \endentry
+    \entry{DANE01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ocupación informal. Trimestre móvil septiembre - noviembre 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
       \endverb
     \endentry
     \entry{UniversidadLibre01}{report}{}{}
@@ -190,6 +253,46 @@
       \endverb
       \verb{url}
       \verb https://core.ac.uk/download/pdf/656057983.pdf
+      \endverb
+    \endentry
+    \entry{Departamento01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf089d4712d7db667cc0df078d8c3f1d}{%
+           family={L.\bibnamedelimi E.\bibnamedelimi Castellanos\bibnamedelima Rodríguez},
+           familyi={L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={A.\bibnamedelimi López-Rodríguez\bibnamedelimb y\bibnamedelimb M.\bibnamedelimi del\bibnamedelimb P.\bibnamedelimi Esguerra-Umaña},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinithyphendelim R\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim E\bibinithyphendelim U\bibinitperiod},
+           givenun=0,
+           suffix={D.\bibnamedelimi Rodríguez-Pinilla},
+           suffixi={D\bibinitperiod\bibinitdelim R\bibinithyphendelim P\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{institution}{1}{%
+        {Departamento Nacional de Planeación}%
+      }
+      \strng{namehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{fullhash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{fullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{bibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authorbibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authornamehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authorfullhash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authorfullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seminarios de Economía y Desarrollo}
+      \field{title}{Educación financiera y bienestar financiero: evidencia de Colombia en un entorno de alta inflación}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://colaboracion.dnp.gov.co/CDT/PublishingImages/Planeacion-y-desarrollo/2024/Septiembre/PDF/dnp-educacion-financiera.pdf
+      \endverb
+      \verb{url}
+      \verb https://colaboracion.dnp.gov.co/CDT/PublishingImages/Planeacion-y-desarrollo/2024/Septiembre/PDF/dnp-educacion-financiera.pdf
       \endverb
     \endentry
     \entry{CESA01}{report}{}{}
@@ -323,6 +426,36 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{Asobancaria01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d10ce3471934d0899d205254993e644}{%
+           family={{Asobancaria}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d10ce3471934d0899d205254993e644}
+      \strng{fullhash}{7d10ce3471934d0899d205254993e644}
+      \strng{fullhashraw}{7d10ce3471934d0899d205254993e644}
+      \strng{bibnamehash}{7d10ce3471934d0899d205254993e644}
+      \strng{authorbibnamehash}{7d10ce3471934d0899d205254993e644}
+      \strng{authornamehash}{7d10ce3471934d0899d205254993e644}
+      \strng{authorfullhash}{7d10ce3471934d0899d205254993e644}
+      \strng{authorfullhashraw}{7d10ce3471934d0899d205254993e644}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Banca y Economía}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
+      \endverb
+    \endentry
     \entry{Inclusionfinan01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
@@ -379,7 +512,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Reporte de Inclusión Financiera 2023: nuevos acances y retos en Colombia}
+      \field{title}{Reporte de Inclusión Financiera 2023: nuevos alcances y retos en Colombia}
       \field{year}{2023}
       \verb{urlraw}
       \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
@@ -419,6 +552,39 @@
       \endverb
       \verb{url}
       \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
+      \endverb
+    \endentry
+    \entry{DANE01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ocupación informal. Trimestre móvil septiembre - noviembre 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
       \endverb
     \endentry
     \entry{UniversidadLibre01}{report}{}{}
@@ -494,6 +660,46 @@
       \endverb
       \verb{url}
       \verb https://core.ac.uk/download/pdf/656057983.pdf
+      \endverb
+    \endentry
+    \entry{Departamento01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cf089d4712d7db667cc0df078d8c3f1d}{%
+           family={L.\bibnamedelimi E.\bibnamedelimi Castellanos\bibnamedelima Rodríguez},
+           familyi={L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={A.\bibnamedelimi López-Rodríguez\bibnamedelimb y\bibnamedelimb M.\bibnamedelimi del\bibnamedelimb P.\bibnamedelimi Esguerra-Umaña},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinithyphendelim R\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim E\bibinithyphendelim U\bibinitperiod},
+           givenun=0,
+           suffix={D.\bibnamedelimi Rodríguez-Pinilla},
+           suffixi={D\bibinitperiod\bibinitdelim R\bibinithyphendelim P\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{institution}{1}{%
+        {Departamento Nacional de Planeación}%
+      }
+      \strng{namehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{fullhash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{fullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{bibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authorbibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authornamehash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authorfullhash}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{authorfullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Seminarios de Economía y Desarrollo}
+      \field{title}{Educación financiera y bienestar financiero: evidencia de Colombia en un entorno de alta inflación}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://colaboracion.dnp.gov.co/CDT/PublishingImages/Planeacion-y-desarrollo/2024/Septiembre/PDF/dnp-educacion-financiera.pdf
+      \endverb
+      \verb{url}
+      \verb https://colaboracion.dnp.gov.co/CDT/PublishingImages/Planeacion-y-desarrollo/2024/Septiembre/PDF/dnp-educacion-financiera.pdf
       \endverb
     \endentry
     \entry{CESA01}{report}{}{}

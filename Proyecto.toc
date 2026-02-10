@@ -2,4 +2,9 @@
 \contentsline {section}{Introducción}{1}{section*.1}%
 \contentsline {section}{Planteamiento del Problema}{2}{section*.1}%
 \contentsline {subsection}{Descripción del Problema}{3}{figure.caption.2}%
-\contentsline {section}{Referencias}{5}{figure.caption.2}%
+\contentsline {subsection}{Formulación del Problema}{4}{figure.caption.2}%
+\contentsline {subsection}{Justificación del Problema}{4}{figure.caption.2}%
+\contentsline {section}{Objetivos}{6}{figure.caption.2}%
+\contentsline {subsection}{Objetivo General}{6}{section*.3}%
+\contentsline {subsection}{Objetivo Específicos}{7}{section*.3}%
+\contentsline {section}{Referencias}{8}{section*.3}%

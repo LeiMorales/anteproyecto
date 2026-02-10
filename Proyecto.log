@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  9 FEB 2026 16:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  10 FEB 2026 15:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1112,7 +1112,7 @@ LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 9
 (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<Imagenes/EscudoUD.png, id=17, 504.38437pt x 645.16031pt>
+<Imagenes/EscudoUD.png, id=23, 504.38437pt x 645.16031pt>
 File: Imagenes/EscudoUD.png Graphic file (type png)
 <use Imagenes/EscudoUD.png>
 Package pdftex.def Info: Imagenes/EscudoUD.png  used on input line 95.
@@ -1183,7 +1183,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [2]
-<Imagenes/ArboldeProblemas.png, id=66, 610.53094pt x 447.17062pt>
+<Imagenes/ArboldeProblemas.png, id=74, 610.53094pt x 447.17062pt>
 File: Imagenes/ArboldeProblemas.png Graphic file (type png)
 <use Imagenes/ArboldeProblemas.png>
 Package pdftex.def Info: Imagenes/ArboldeProblemas.png  used on input line 11.
@@ -1197,7 +1197,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[3 <./Imagenes/ArboldeProblemas.png>])))
+[3 <./Imagenes/ArboldeProblemas.png>])
+(Contenido/02. Planteamiento/FormulacionDelProblema.tex)
+(Contenido/02. Planteamiento/JustificacionDelProblema.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1215,7 +1217,46 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[5
+[5])) (Contenido/03. Objetivos/Objetivos.tex
+(Contenido/03. Objetivos/ObjetivoGeneral.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 2.
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[6] (Contenido/03. Objetivos/ObjetivoEspecifico.tex)))
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[7]
+Overfull \hbox (4.7444pt too wide) in paragraph at lines 101--101
+[][]\OT1/ptm/m/n/12 Departamento Ad-mi-nis-tra-ti-vo Na-cio-nal de Es-tad[]^^Ps
+ti-ca. (2025). \OT1/ptm/m/it/12 Ocu-pa-ci[]on in-for-mal. Tri-mes-tre m[]ovil
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[8
 
 
 ]
@@ -1227,7 +1268,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[6] (Proyecto.aux
+[9] (Proyecto.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1236,9 +1277,15 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
-Package rerunfilecheck Info: File `Proyecto.out' has not changed.
-(rerunfilecheck)             Checksum: 95FFEB24BAF1926BF1C977CBCD623CA7;581.
 
+
+Package rerunfilecheck Warning: File `Proyecto.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Proyecto.out':
+(rerunfilecheck)             Before: 7D5D0D5EF96706A1A0F3D63D7AA2BFBC;969
+(rerunfilecheck)             After:  A94A237BF883E8B6101C2E815FA8E6F3;1367.
 
 Package biblatex Warning: Please rerun LaTeX.
 (biblatex)                Page breaks have changed.
@@ -1248,10 +1295,10 @@ Package logreq Info: Writing requests to 'Proyecto.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26188 strings out of 468132
- 486650 string characters out of 5430698
- 1440615 words of memory out of 5000000
- 54457 multiletter control sequences out of 15000+600000
+ 26267 strings out of 468132
+ 489944 string characters out of 5430698
+ 1441837 words of memory out of 5000000
+ 54512 multiletter control sequences out of 15000+600000
  642649 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,12n,90p,1258b,2903s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1260,9 +1307,9 @@ pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.
 pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.
 pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a
 .pfb>
-Output written on Proyecto.pdf (10 pages, 670262 bytes).
+Output written on Proyecto.pdf (13 pages, 693340 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
