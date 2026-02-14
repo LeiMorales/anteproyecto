@@ -1,0 +1,24 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Introducción}{1}{section*.1}%
+\contentsline {section}{Planteamiento del Problema}{2}{section*.1}%
+\contentsline {subsection}{Descripción del Problema}{3}{figure.caption.2}%
+\contentsline {subsection}{Formulación del Problema}{4}{figure.caption.2}%
+\contentsline {subsection}{Justificación del Problema}{4}{figure.caption.2}%
+\contentsline {section}{Objetivos}{7}{figure.caption.2}%
+\contentsline {subsection}{Objetivo General}{7}{section*.3}%
+\contentsline {subsection}{Objetivo Específicos}{7}{section*.3}%
+\contentsline {section}{Marco Teórico}{8}{section*.3}%
+\contentsline {subsection}{Definiciones previas}{8}{section*.4}%
+\contentsline {subsubsection}{Finanzas personales}{8}{section*.4}%
+\contentsline {subsubsection}{Nómadas digitales}{9}{section*.4}%
+\contentsline {subsubsection}{Plan de negocio}{10}{section*.4}%
+\contentsline {paragraph}{Asesoramiento financiero}{10}{section*.4}%
+\contentsline {subsubsection}{Herramientas tecnológicas para el asesoramiento financiero}{11}{section*.4}%
+\contentsline {paragraph}{Alfabetización financiera}{13}{figure.caption.5}%
+\contentsline {paragraph}{Educación financiera}{13}{figure.caption.5}%
+\contentsline {paragraph}{Inclusión financiera}{14}{figure.caption.5}%
+\contentsline {paragraph}{Tecnología financiera (FinTech)}{14}{figure.caption.5}%
+\contentsline {paragraph}{Bienestar financiero}{15}{figure.caption.5}%
+\contentsline {paragraph}{Presupuesto personal}{16}{figure.caption.5}%
+\contentsline {subsection}{Análisis de competencia}{18}{figure.caption.6}%
+\contentsline {section}{Referencias}{20}{figure.caption.6}%

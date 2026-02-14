@@ -19,6 +19,75 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{PMC01}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8f9e57d66bc98904c4fa247515348f5}{%
+           family={{A. Lusardi y O. S. Mitchell}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{fullhash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{fullhashraw}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{bibnamehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authorbibnamehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authornamehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authorfullhash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authorfullhashraw}{d8f9e57d66bc98904c4fa247515348f5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Literature}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{The Economic Importance of Financial Literacy: Theory and Evidence}
+      \field{volume}{52}
+      \field{year}{2014}
+      \field{pages}{5\bibrangedash 44}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1257/jel.52.1.5
+      \endverb
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5450829/pdf/nihms857731.pdf
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5450829/pdf/nihms857731.pdf
+      \endverb
+    \endentry
+    \entry{Recordar01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0fc4edd0cecaced046bdc21e3beda6f2}{%
+           family={{AlgoQueRecordar}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{fullhash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{fullhashraw}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{bibnamehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authorbibnamehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authornamehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authorfullhash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authorfullhashraw}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{No somos nómadas digitales}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://algoquerecordar.com/ocurrencias/reflexiones/nomadas-digitales/
+      \endverb
+      \verb{url}
+      \verb https://algoquerecordar.com/ocurrencias/reflexiones/nomadas-digitales/
+      \endverb
+    \endentry
     \entry{Asobancaria01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7d10ce3471934d0899d205254993e644}{%
@@ -49,6 +118,38 @@
       \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
       \endverb
     \endentry
+    \entry{BancadeOportunidades02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
+           family={{Banca de las Oportunidades}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhashraw}{38b182c5379280d776a15959a6593305}
+      \strng{bibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorbibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authornamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué son las fintech y en qué segmentos operan?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.bancadelasoportunidades.gov.co/es/blogs/blog-de-bdo/que-son-las-fintech-y-en-que-segmentos-operan
+      \endverb
+      \verb{url}
+      \verb https://www.bancadelasoportunidades.gov.co/es/blogs/blog-de-bdo/que-son-las-fintech-y-en-que-segmentos-operan
+      \endverb
+    \endentry
     \entry{Inclusionfinan01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
@@ -66,9 +167,10 @@
       \strng{authornamehash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -97,7 +199,7 @@
       \strng{authornamehash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -112,6 +214,101 @@
       \endverb
       \verb{url}
       \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
+      \endverb
+    \endentry
+    \entry{BBVA02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es un asesor financiero? Función, tipos y características}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/salud-financiera/cualidades-buen-asesoramiento-financiero/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/salud-financiera/cualidades-buen-asesoramiento-financiero/
+      \endverb
+    \endentry
+    \entry{BBVA01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué son las finanzas personales y corporativas?: similitudes y diferencias}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
+      \endverb
+    \endentry
+    \entry{BBVAResearch01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0e444c697e3212edae3ee623fa12bf2}{%
+           family={{BBVA Research}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco Bilbao Vizcaya Argentaria}%
+      }
+      \strng{namehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{fullhash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{fullhashraw}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{bibnamehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authorbibnamehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authornamehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authorfullhash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authorfullhashraw}{c0e444c697e3212edae3ee623fa12bf2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Robo-advisors: la automatización del asesoramiento financiero}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.bbvaresearch.com/wp-content/uploads/2016/03/Situacion_ED_Mar16_Cap5.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bbvaresearch.com/wp-content/uploads/2016/03/Situacion_ED_Mar16_Cap5.pdf
       \endverb
     \endentry
     \entry{ComisionIntersectorial01}{report}{}{}
@@ -178,6 +375,102 @@
       \endverb
       \verb{url}
       \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
+      \endverb
+    \endentry
+    \entry{GrupoR01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
+           family={{GrupoR5}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{108130e36261360393228eb2da6fb622}
+      \strng{fullhash}{108130e36261360393228eb2da6fb622}
+      \strng{fullhashraw}{108130e36261360393228eb2da6fb622}
+      \strng{bibnamehash}{108130e36261360393228eb2da6fb622}
+      \strng{authorbibnamehash}{108130e36261360393228eb2da6fb622}
+      \strng{authornamehash}{108130e36261360393228eb2da6fb622}
+      \strng{authorfullhash}{108130e36261360393228eb2da6fb622}
+      \strng{authorfullhashraw}{108130e36261360393228eb2da6fb622}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Presupuesto personal: Qué es y cómo hacer el tuyo}
+      \verb{urlraw}
+      \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+      \verb{url}
+      \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+    \endentry
+    \entry{OECD01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9aad6d885902e1044339340229941eac}{%
+           family={{Informe del Programa para la Evaluación Internacional de los Estudiantes}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Organización para la Cooperación y el Desarrollo Económico}%
+      }
+      \strng{namehash}{9aad6d885902e1044339340229941eac}
+      \strng{fullhash}{9aad6d885902e1044339340229941eac}
+      \strng{fullhashraw}{9aad6d885902e1044339340229941eac}
+      \strng{bibnamehash}{9aad6d885902e1044339340229941eac}
+      \strng{authorbibnamehash}{9aad6d885902e1044339340229941eac}
+      \strng{authornamehash}{9aad6d885902e1044339340229941eac}
+      \strng{authorfullhash}{9aad6d885902e1044339340229941eac}
+      \strng{authorfullhashraw}{9aad6d885902e1044339340229941eac}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Evaluación de Competencia Financiera PISA 2029 de la OCDE: Preparando a los Estudiantes para su Futuro Financiero}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/financial-education/Flyer%20PISA%20(4).pdf
+      \endverb
+      \verb{url}
+      \verb https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/financial-education/Flyer%20PISA%20(4).pdf
+      \endverb
+    \endentry
+    \entry{Investopedia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f61011fc122e4c0e335e1b9564b52a20}{%
+           family={{J. Fernando}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Investopedia}%
+      }
+      \strng{namehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{fullhash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{fullhashraw}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{bibnamehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authorbibnamehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authornamehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authorfullhash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authorfullhashraw}{f61011fc122e4c0e335e1b9564b52a20}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Financial Literacy: What It Is, and Why It Is So Important to Teach Teens}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.investopedia.com/terms/f/financial-literacy.asp
+      \endverb
+      \verb{url}
+      \verb https://www.investopedia.com/terms/f/financial-literacy.asp
       \endverb
     \endentry
     \entry{UniversidadLibre01}{report}{}{}
@@ -257,27 +550,21 @@
     \endentry
     \entry{Departamento01}{report}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cf089d4712d7db667cc0df078d8c3f1d}{%
-           family={L.\bibnamedelimi E.\bibnamedelimi Castellanos\bibnamedelima Rodríguez},
-           familyi={L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={A.\bibnamedelimi López-Rodríguez\bibnamedelimb y\bibnamedelimb M.\bibnamedelimi del\bibnamedelimb P.\bibnamedelimi Esguerra-Umaña},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinithyphendelim R\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim E\bibinithyphendelim U\bibinitperiod},
-           givenun=0,
-           suffix={D.\bibnamedelimi Rodríguez-Pinilla},
-           suffixi={D\bibinitperiod\bibinitdelim R\bibinithyphendelim P\bibinitperiod},
-           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=774ed9a4c8012c9c5f38564a1d19a478}{%
+           family={{L. E. Castellanos Rodríguez, D. Rodríguez-Pinilla, A. López-Rodríguez y M. del P. Esguerra-Umaña}},
+           familyi={L\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Departamento Nacional de Planeación}%
       }
-      \strng{namehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{fullhash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{fullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{bibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authorbibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authornamehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authorfullhash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authorfullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{namehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{fullhash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{fullhashraw}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{bibnamehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authorbibnamehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authornamehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authorfullhash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authorfullhashraw}{774ed9a4c8012c9c5f38564a1d19a478}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -326,6 +613,71 @@
       \endverb
       \verb{url}
       \verb https://repository.cesa.edu.co/server/api/core/bitstreams/bec1c0b7-9e8d-4531-be03-134e7e18c196/content
+      \endverb
+    \endentry
+    \entry{BancoDesarrollo01}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f0504e8d05c6f60409ec0f3dbed2cb0}{%
+           family={{N. García, A. Grifoni, J. C. López y D. M. Mejía}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Banco de Desarrollo de América Latina}%
+      }
+      \strng{namehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{fullhash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{fullhashraw}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{bibnamehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authorbibnamehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authornamehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authorfullhash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authorfullhashraw}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-980-6810-67-9}
+      \field{title}{La educación financiera en América Latina y el Caribe: Situación actual y perspectivas}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://scioteca.caf.com/bitstream/handle/123456789/379/caf_12_educaci_n_financiera5.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://scioteca.caf.com/bitstream/handle/123456789/379/caf_12_educaci_n_financiera5.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{OECD02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17f189fc521be7805ffb16926be2deea}{%
+           family={{Organización para la Cooperación y el Desarrollo Económico}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{fullhash}{17f189fc521be7805ffb16926be2deea}
+      \strng{fullhashraw}{17f189fc521be7805ffb16926be2deea}
+      \strng{bibnamehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authorbibnamehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authornamehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authorfullhash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authorfullhashraw}{17f189fc521be7805ffb16926be2deea}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Financial education}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.oecd.org/en/topics/financial-education.html
+      \endverb
+      \verb{url}
+      \verb https://www.oecd.org/en/topics/financial-education.html
       \endverb
     \endentry
     \entry{Economipedia01}{online}{}{}
@@ -391,6 +743,39 @@
       \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
       \endverb
     \endentry
+    \entry{Economipedia02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4647761e60749c3b7e4490ac42784c7}{%
+           family={{S. J. Pedrosa}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Economipedia}%
+      }
+      \strng{namehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{fullhash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{fullhashraw}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{bibnamehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authorbibnamehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authornamehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authorfullhash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authorfullhashraw}{a4647761e60749c3b7e4490ac42784c7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bienestar económico}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://economipedia.com/definiciones/bienestar-economico.html
+      \endverb
+      \verb{url}
+      \verb https://economipedia.com/definiciones/bienestar-economico.html
+      \endverb
+    \endentry
     \entry{Superintendencia01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5d1f6e775302e36fe499c824b6addea2}{%
@@ -422,10 +807,112 @@
       \endverb
       \verb{url}
       \verb https://www.superfinanciera.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=1010335
+      \endverb
+    \endentry
+    \entry{Pulzo01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=852ee340807a5bb5755b527612ba8d9c}{%
+           family={{V. Arias}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Pulzo}%
+      }
+      \strng{namehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{fullhash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{fullhashraw}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{bibnamehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authorbibnamehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authornamehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authorfullhash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authorfullhashraw}{852ee340807a5bb5755b527612ba8d9c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Quién tiene más usuarios entre Nequi, Daviplata y otros neobancos? Uno sorprendió en 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.pulzo.com/economia/cuantos-clientes-tienen-nequi-daviplata-dale-neobancos-colombia-PP4146196
+      \endverb
+      \verb{url}
+      \verb https://www.pulzo.com/economia/cuantos-clientes-tienen-nequi-daviplata-dale-neobancos-colombia-PP4146196
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{PMC01}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8f9e57d66bc98904c4fa247515348f5}{%
+           family={{A. Lusardi y O. S. Mitchell}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{fullhash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{fullhashraw}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{bibnamehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authorbibnamehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authornamehash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authorfullhash}{d8f9e57d66bc98904c4fa247515348f5}
+      \strng{authorfullhashraw}{d8f9e57d66bc98904c4fa247515348f5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Literature}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{The Economic Importance of Financial Literacy: Theory and Evidence}
+      \field{volume}{52}
+      \field{year}{2014}
+      \field{pages}{5\bibrangedash 44}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1257/jel.52.1.5
+      \endverb
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5450829/pdf/nihms857731.pdf
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5450829/pdf/nihms857731.pdf
+      \endverb
+    \endentry
+    \entry{Recordar01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0fc4edd0cecaced046bdc21e3beda6f2}{%
+           family={{AlgoQueRecordar}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{fullhash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{fullhashraw}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{bibnamehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authorbibnamehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authornamehash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authorfullhash}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \strng{authorfullhashraw}{0fc4edd0cecaced046bdc21e3beda6f2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{No somos nómadas digitales}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://algoquerecordar.com/ocurrencias/reflexiones/nomadas-digitales/
+      \endverb
+      \verb{url}
+      \verb https://algoquerecordar.com/ocurrencias/reflexiones/nomadas-digitales/
+      \endverb
+    \endentry
     \entry{Asobancaria01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7d10ce3471934d0899d205254993e644}{%
@@ -456,6 +943,38 @@
       \verb https://www.asobancaria.com/wp-content/uploads/2025/08/banca-1487.pdf
       \endverb
     \endentry
+    \entry{BancadeOportunidades02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
+           family={{Banca de las Oportunidades}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhash}{38b182c5379280d776a15959a6593305}
+      \strng{fullhashraw}{38b182c5379280d776a15959a6593305}
+      \strng{bibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorbibnamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authornamehash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
+      \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué son las fintech y en qué segmentos operan?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.bancadelasoportunidades.gov.co/es/blogs/blog-de-bdo/que-son-las-fintech-y-en-que-segmentos-operan
+      \endverb
+      \verb{url}
+      \verb https://www.bancadelasoportunidades.gov.co/es/blogs/blog-de-bdo/que-son-las-fintech-y-en-que-segmentos-operan
+      \endverb
+    \endentry
     \entry{Inclusionfinan01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=38b182c5379280d776a15959a6593305}{%
@@ -473,9 +992,10 @@
       \strng{authornamehash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -504,7 +1024,7 @@
       \strng{authornamehash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhash}{38b182c5379280d776a15959a6593305}
       \strng{authorfullhashraw}{38b182c5379280d776a15959a6593305}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -519,6 +1039,101 @@
       \endverb
       \verb{url}
       \verb https://www.bancadelasoportunidades.gov.co/es/noticias/reporte-de-inclusion-financiera-2023-nuevos-avances-y-retos-en-colombia
+      \endverb
+    \endentry
+    \entry{BBVA02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es un asesor financiero? Función, tipos y características}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/salud-financiera/cualidades-buen-asesoramiento-financiero/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/salud-financiera/cualidades-buen-asesoramiento-financiero/
+      \endverb
+    \endentry
+    \entry{BBVA01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué son las finanzas personales y corporativas?: similitudes y diferencias}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
+      \endverb
+    \endentry
+    \entry{BBVAResearch01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0e444c697e3212edae3ee623fa12bf2}{%
+           family={{BBVA Research}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco Bilbao Vizcaya Argentaria}%
+      }
+      \strng{namehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{fullhash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{fullhashraw}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{bibnamehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authorbibnamehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authornamehash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authorfullhash}{c0e444c697e3212edae3ee623fa12bf2}
+      \strng{authorfullhashraw}{c0e444c697e3212edae3ee623fa12bf2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Robo-advisors: la automatización del asesoramiento financiero}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.bbvaresearch.com/wp-content/uploads/2016/03/Situacion_ED_Mar16_Cap5.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bbvaresearch.com/wp-content/uploads/2016/03/Situacion_ED_Mar16_Cap5.pdf
       \endverb
     \endentry
     \entry{ComisionIntersectorial01}{report}{}{}
@@ -585,6 +1200,102 @@
       \endverb
       \verb{url}
       \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
+      \endverb
+    \endentry
+    \entry{GrupoR01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
+           family={{GrupoR5}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{108130e36261360393228eb2da6fb622}
+      \strng{fullhash}{108130e36261360393228eb2da6fb622}
+      \strng{fullhashraw}{108130e36261360393228eb2da6fb622}
+      \strng{bibnamehash}{108130e36261360393228eb2da6fb622}
+      \strng{authorbibnamehash}{108130e36261360393228eb2da6fb622}
+      \strng{authornamehash}{108130e36261360393228eb2da6fb622}
+      \strng{authorfullhash}{108130e36261360393228eb2da6fb622}
+      \strng{authorfullhashraw}{108130e36261360393228eb2da6fb622}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Presupuesto personal: Qué es y cómo hacer el tuyo}
+      \verb{urlraw}
+      \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+      \verb{url}
+      \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+    \endentry
+    \entry{OECD01}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9aad6d885902e1044339340229941eac}{%
+           family={{Informe del Programa para la Evaluación Internacional de los Estudiantes}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Organización para la Cooperación y el Desarrollo Económico}%
+      }
+      \strng{namehash}{9aad6d885902e1044339340229941eac}
+      \strng{fullhash}{9aad6d885902e1044339340229941eac}
+      \strng{fullhashraw}{9aad6d885902e1044339340229941eac}
+      \strng{bibnamehash}{9aad6d885902e1044339340229941eac}
+      \strng{authorbibnamehash}{9aad6d885902e1044339340229941eac}
+      \strng{authornamehash}{9aad6d885902e1044339340229941eac}
+      \strng{authorfullhash}{9aad6d885902e1044339340229941eac}
+      \strng{authorfullhashraw}{9aad6d885902e1044339340229941eac}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Evaluación de Competencia Financiera PISA 2029 de la OCDE: Preparando a los Estudiantes para su Futuro Financiero}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/financial-education/Flyer%20PISA%20(4).pdf
+      \endverb
+      \verb{url}
+      \verb https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/financial-education/Flyer%20PISA%20(4).pdf
+      \endverb
+    \endentry
+    \entry{Investopedia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f61011fc122e4c0e335e1b9564b52a20}{%
+           family={{J. Fernando}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Investopedia}%
+      }
+      \strng{namehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{fullhash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{fullhashraw}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{bibnamehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authorbibnamehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authornamehash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authorfullhash}{f61011fc122e4c0e335e1b9564b52a20}
+      \strng{authorfullhashraw}{f61011fc122e4c0e335e1b9564b52a20}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Financial Literacy: What It Is, and Why It Is So Important to Teach Teens}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.investopedia.com/terms/f/financial-literacy.asp
+      \endverb
+      \verb{url}
+      \verb https://www.investopedia.com/terms/f/financial-literacy.asp
       \endverb
     \endentry
     \entry{UniversidadLibre01}{report}{}{}
@@ -664,27 +1375,21 @@
     \endentry
     \entry{Departamento01}{report}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cf089d4712d7db667cc0df078d8c3f1d}{%
-           family={L.\bibnamedelimi E.\bibnamedelimi Castellanos\bibnamedelima Rodríguez},
-           familyi={L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={A.\bibnamedelimi López-Rodríguez\bibnamedelimb y\bibnamedelimb M.\bibnamedelimi del\bibnamedelimb P.\bibnamedelimi Esguerra-Umaña},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinithyphendelim R\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim E\bibinithyphendelim U\bibinitperiod},
-           givenun=0,
-           suffix={D.\bibnamedelimi Rodríguez-Pinilla},
-           suffixi={D\bibinitperiod\bibinitdelim R\bibinithyphendelim P\bibinitperiod},
-           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=774ed9a4c8012c9c5f38564a1d19a478}{%
+           family={{L. E. Castellanos Rodríguez, D. Rodríguez-Pinilla, A. López-Rodríguez y M. del P. Esguerra-Umaña}},
+           familyi={L\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Departamento Nacional de Planeación}%
       }
-      \strng{namehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{fullhash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{fullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{bibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authorbibnamehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authornamehash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authorfullhash}{cf089d4712d7db667cc0df078d8c3f1d}
-      \strng{authorfullhashraw}{cf089d4712d7db667cc0df078d8c3f1d}
+      \strng{namehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{fullhash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{fullhashraw}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{bibnamehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authorbibnamehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authornamehash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authorfullhash}{774ed9a4c8012c9c5f38564a1d19a478}
+      \strng{authorfullhashraw}{774ed9a4c8012c9c5f38564a1d19a478}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
@@ -733,6 +1438,71 @@
       \endverb
       \verb{url}
       \verb https://repository.cesa.edu.co/server/api/core/bitstreams/bec1c0b7-9e8d-4531-be03-134e7e18c196/content
+      \endverb
+    \endentry
+    \entry{BancoDesarrollo01}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0f0504e8d05c6f60409ec0f3dbed2cb0}{%
+           family={{N. García, A. Grifoni, J. C. López y D. M. Mejía}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Banco de Desarrollo de América Latina}%
+      }
+      \strng{namehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{fullhash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{fullhashraw}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{bibnamehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authorbibnamehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authornamehash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authorfullhash}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \strng{authorfullhashraw}{0f0504e8d05c6f60409ec0f3dbed2cb0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-980-6810-67-9}
+      \field{title}{La educación financiera en América Latina y el Caribe: Situación actual y perspectivas}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://scioteca.caf.com/bitstream/handle/123456789/379/caf_12_educaci_n_financiera5.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://scioteca.caf.com/bitstream/handle/123456789/379/caf_12_educaci_n_financiera5.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{OECD02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17f189fc521be7805ffb16926be2deea}{%
+           family={{Organización para la Cooperación y el Desarrollo Económico}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{fullhash}{17f189fc521be7805ffb16926be2deea}
+      \strng{fullhashraw}{17f189fc521be7805ffb16926be2deea}
+      \strng{bibnamehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authorbibnamehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authornamehash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authorfullhash}{17f189fc521be7805ffb16926be2deea}
+      \strng{authorfullhashraw}{17f189fc521be7805ffb16926be2deea}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Financial education}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.oecd.org/en/topics/financial-education.html
+      \endverb
+      \verb{url}
+      \verb https://www.oecd.org/en/topics/financial-education.html
       \endverb
     \endentry
     \entry{Economipedia01}{online}{}{}
@@ -798,6 +1568,39 @@
       \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
       \endverb
     \endentry
+    \entry{Economipedia02}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4647761e60749c3b7e4490ac42784c7}{%
+           family={{S. J. Pedrosa}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Economipedia}%
+      }
+      \strng{namehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{fullhash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{fullhashraw}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{bibnamehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authorbibnamehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authornamehash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authorfullhash}{a4647761e60749c3b7e4490ac42784c7}
+      \strng{authorfullhashraw}{a4647761e60749c3b7e4490ac42784c7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bienestar económico}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://economipedia.com/definiciones/bienestar-economico.html
+      \endverb
+      \verb{url}
+      \verb https://economipedia.com/definiciones/bienestar-economico.html
+      \endverb
+    \endentry
     \entry{Superintendencia01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5d1f6e775302e36fe499c824b6addea2}{%
@@ -831,21 +1634,40 @@
       \verb https://www.superfinanciera.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=1010335
       \endverb
     \endentry
+    \entry{Pulzo01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=852ee340807a5bb5755b527612ba8d9c}{%
+           family={{V. Arias}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Pulzo}%
+      }
+      \strng{namehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{fullhash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{fullhashraw}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{bibnamehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authorbibnamehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authornamehash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authorfullhash}{852ee340807a5bb5755b527612ba8d9c}
+      \strng{authorfullhashraw}{852ee340807a5bb5755b527612ba8d9c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Quién tiene más usuarios entre Nequi, Daviplata y otros neobancos? Uno sorprendió en 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.pulzo.com/economia/cuantos-clientes-tienen-nequi-daviplata-dale-neobancos-colombia-PP4146196
+      \endverb
+      \verb{url}
+      \verb https://www.pulzo.com/economia/cuantos-clientes-tienen-nequi-daviplata-dale-neobancos-colombia-PP4146196
+      \endverb
+    \endentry
   \enddatalist
-  \missing{Bibl008}
-  \missing{Bibl009}
-  \missing{Bibl010}
-  \missing{Bibl011}
-  \missing{Bibl014}
-  \missing{Bibl015}
-  \missing{Bibl016}
-  \missing{Bibl017}
-  \missing{Bibl018}
-  \missing{Bibl019}
-  \missing{Bibl020}
-  \missing{Bibl021}
-  \missing{Bibl022}
-  \missing{Bibl034}
 \endrefsection
 \endinput
 
