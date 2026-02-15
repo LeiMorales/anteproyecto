@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  13 FEB 2026 20:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  15 FEB 2026 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1359,7 +1359,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[18])))
+[18]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1368,7 +1368,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[19]
+[19])))
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1377,7 +1377,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[20
+[20]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[21
 
 
 ]
@@ -1395,7 +1404,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[21]
+[22]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1404,7 +1413,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[22] (Proyecto.aux
+[23] (Proyecto.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1420,8 +1429,8 @@ Package logreq Info: Writing requests to 'Proyecto.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26431 strings out of 468132
- 495290 string characters out of 5430698
+ 26432 strings out of 468132
+ 495297 string characters out of 5430698
  1444858 words of memory out of 5000000
  54634 multiletter control sequences out of 15000+600000
  644278 words of font info for 83 fonts, out of 8000000 for 9000
@@ -1434,9 +1443,9 @@ cmsy6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier
 /utmbi8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on Proyecto.pdf (26 pages, 892404 bytes).
+Output written on Proyecto.pdf (27 pages, 895470 bytes).
 PDF statistics:
- 361 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
+ 365 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
  149 words of extra memory for PDF output out of 10000 (max. 10000000)
 
