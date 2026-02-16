@@ -278,6 +278,39 @@
       \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
       \endverb
     \endentry
+    \entry{Bancolombia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f73e6e8fd4fced48f253752c8570370d}{%
+           family={{Bancolombia}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Grupo Cibest}%
+      }
+      \strng{namehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{fullhash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{fullhashraw}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{bibnamehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authorbibnamehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authornamehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authorfullhash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authorfullhashraw}{f73e6e8fd4fced48f253752c8570370d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perspectivas económicas para Colombia y el mundo en 2026}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-economicas-2026
+      \endverb
+      \verb{url}
+      \verb https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-economicas-2026
+      \endverb
+    \endentry
     \entry{BBVAResearch01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c0e444c697e3212edae3ee623fa12bf2}{%
@@ -309,6 +342,36 @@
       \endverb
       \verb{url}
       \verb https://www.bbvaresearch.com/wp-content/uploads/2016/03/Situacion_ED_Mar16_Cap5.pdf
+      \endverb
+    \endentry
+    \entry{ColombiaFintech01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb995c99b4b34b7fd7bde81539e8d9e0}{%
+           family={{ColombiaFintech}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{fullhash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{fullhashraw}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{bibnamehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authorbibnamehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authornamehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authorfullhash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authorfullhashraw}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mapeo nacional de educación económica y financiera 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://colombiafintech.co/2024/11/29/mapeo-nacional-de-educacion-economica-y-financiera-2024/
+      \endverb
+      \verb{url}
+      \verb https://colombiafintech.co/2024/11/29/mapeo-nacional-de-educacion-economica-y-financiera-2024/
       \endverb
     \endentry
     \entry{ComisionIntersectorial01}{report}{}{}
@@ -344,7 +407,7 @@
       \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
       \endverb
     \endentry
-    \entry{DANE_Juventud2025}{report}{}{}
+    \entry{DANE_Internet2023}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
            family={{Departamento Administrativo Nacional de Estadística}},
@@ -362,6 +425,74 @@
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
       \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Indicadores básicos de tenencia y uso de tecnologías de la información y las comunicaciones (TIC) en hogares y personas de 5 y más años de edad departamental}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/TICH/bol-TICH-2023.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/TICH/bol-TICH-2023.pdf
+      \endverb
+    \endentry
+    \entry{DANE_Pobreza2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pobreza Monetaria 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/PM/pres-PM-2024.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/PM/pres-PM-2024.pdf
+      \endverb
+    \endentry
+    \entry{DANE_Juventud2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradate}{1}
@@ -396,7 +527,7 @@
       \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
-      \field{extraname}{2}
+      \field{extraname}{4}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradate}{2}
@@ -431,7 +562,7 @@
       \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
-      \field{extraname}{3}
+      \field{extraname}{5}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradate}{3}
@@ -447,6 +578,107 @@
       \endverb
       \verb{url}
       \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
+      \endverb
+    \endentry
+    \entry{Ley1735}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1735 de 2014}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=59835
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=59835
+      \endverb
+    \endentry
+    \entry{Decreto1297}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decreto 1297 de 2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=190426
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=190426
+      \endverb
+    \endentry
+    \entry{Infobae01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc3a40da68b3b05d483919dfbb68686a}{%
+           family={{F. Saavedra}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Infobae}%
+      }
+      \strng{namehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{fullhash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{fullhashraw}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{bibnamehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authorbibnamehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authornamehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authorfullhash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authorfullhashraw}{fc3a40da68b3b05d483919dfbb68686a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Informe reveló que el 43 por ciento de los colombianos se encuentra sobreendeudado: La mora es una señal de alerta}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.infobae.com/colombia/2026/02/14/informe-revelo-que-el-43-de-los-colombianos-se-encuentra-sobreendeudado-la-mora-es-una-senal-de-alerta/
+      \endverb
+      \verb{url}
+      \verb https://www.infobae.com/colombia/2026/02/14/informe-revelo-que-el-43-de-los-colombianos-se-encuentra-sobreendeudado-la-mora-es-una-senal-de-alerta/
       \endverb
     \endentry
     \entry{GrupoR01}{online}{}{}
@@ -475,6 +707,36 @@
       \endverb
       \verb{url}
       \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+    \endentry
+    \entry{InfoLaft01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1804a991becda0e2731a8bfbb0118ddb}{%
+           family={{Infolaft}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{fullhash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{fullhashraw}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{bibnamehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authorbibnamehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authornamehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authorfullhash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authorfullhashraw}{1804a991becda0e2731a8bfbb0118ddb}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SARLAFT: sistemas vigentes en Colombia por cada sector}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.infolaft.com/sarlaft-los-sistemas-vigentes-colombia-sector
+      \endverb
+      \verb{url}
+      \verb https://www.infolaft.com/sarlaft-los-sistemas-vigentes-colombia-sector
       \endverb
     \endentry
     \entry{OECD01}{report}{}{}
@@ -721,6 +983,36 @@
       \verb https://scioteca.caf.com/bitstream/handle/123456789/379/caf_12_educaci_n_financiera5.pdf?sequence=1&isAllowed=y
       \endverb
     \endentry
+    \entry{Nequi01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13160f1ac57b4c5a9f0cf678b875f571}{%
+           family={{Nequi}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{fullhash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{fullhashraw}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{bibnamehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authorbibnamehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authornamehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authorfullhash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authorfullhashraw}{13160f1ac57b4c5a9f0cf678b875f571}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nequi les cuenta a sus usuarios cómo han movido su plata, en lo que va del año}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.nequi.com.co/personas/conocenos/sala-de-prensa/comunicado/nequi-les-cuenta-a-sus-usuarios-como-han
+      \endverb
+      \verb{url}
+      \verb https://www.nequi.com.co/personas/conocenos/sala-de-prensa/comunicado/nequi-les-cuenta-a-sus-usuarios-como-han
+      \endverb
+    \endentry
     \entry{OECD02}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17f189fc521be7805ffb16926be2deea}{%
@@ -813,6 +1105,70 @@
       \endverb
       \verb{url}
       \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
+      \endverb
+    \endentry
+    \entry{RankingsLATAM01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3759f480e3d5cb9cf853bad52bd9525}{%
+           family={{Rankings LATAM}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{fullhash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{fullhashraw}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{bibnamehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authorbibnamehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authornamehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authorfullhash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authorfullhashraw}{f3759f480e3d5cb9cf853bad52bd9525}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Competitive Performance and Financial Results of Banks and Financial Institutions in Colombia – December 2024 Rankings}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
+      \endverb
+      \verb{url}
+      \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
+      \endverb
+    \endentry
+    \entry{Asobancaria02}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ec4451529ae275a3ad6603e61e90610}{%
+           family={{S. C. Gómez}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Asobancaria}%
+      }
+      \strng{namehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{fullhash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{fullhashraw}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{bibnamehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authorbibnamehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authornamehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authorfullhash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authorfullhashraw}{4ec4451529ae275a3ad6603e61e90610}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educación Económica y Financiera: motor de crecimiento y desarrollo sostenible}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.asobancaria.com/wp-content/uploads/2016/02/4664743.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.asobancaria.com/wp-content/uploads/2016/02/4664743.pdf
       \endverb
     \endentry
     \entry{Economipedia02}{online}{}{}
@@ -1175,6 +1531,39 @@
       \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
       \endverb
     \endentry
+    \entry{Bancolombia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f73e6e8fd4fced48f253752c8570370d}{%
+           family={{Bancolombia}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Grupo Cibest}%
+      }
+      \strng{namehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{fullhash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{fullhashraw}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{bibnamehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authorbibnamehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authornamehash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authorfullhash}{f73e6e8fd4fced48f253752c8570370d}
+      \strng{authorfullhashraw}{f73e6e8fd4fced48f253752c8570370d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perspectivas económicas para Colombia y el mundo en 2026}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-economicas-2026
+      \endverb
+      \verb{url}
+      \verb https://www.bancolombia.com/empresas/capital-inteligente/actualidad-economica-sectorial/perspectivas-economicas-2026
+      \endverb
+    \endentry
     \entry{BBVAResearch01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c0e444c697e3212edae3ee623fa12bf2}{%
@@ -1206,6 +1595,36 @@
       \endverb
       \verb{url}
       \verb https://www.bbvaresearch.com/wp-content/uploads/2016/03/Situacion_ED_Mar16_Cap5.pdf
+      \endverb
+    \endentry
+    \entry{ColombiaFintech01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb995c99b4b34b7fd7bde81539e8d9e0}{%
+           family={{ColombiaFintech}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{fullhash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{fullhashraw}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{bibnamehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authorbibnamehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authornamehash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authorfullhash}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \strng{authorfullhashraw}{eb995c99b4b34b7fd7bde81539e8d9e0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mapeo nacional de educación económica y financiera 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://colombiafintech.co/2024/11/29/mapeo-nacional-de-educacion-economica-y-financiera-2024/
+      \endverb
+      \verb{url}
+      \verb https://colombiafintech.co/2024/11/29/mapeo-nacional-de-educacion-economica-y-financiera-2024/
       \endverb
     \endentry
     \entry{ComisionIntersectorial01}{report}{}{}
@@ -1241,7 +1660,7 @@
       \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
       \endverb
     \endentry
-    \entry{DANE_Juventud2025}{report}{}{}
+    \entry{DANE_Internet2023}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
            family={{Departamento Administrativo Nacional de Estadística}},
@@ -1259,6 +1678,74 @@
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
       \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Indicadores básicos de tenencia y uso de tecnologías de la información y las comunicaciones (TIC) en hogares y personas de 5 y más años de edad departamental}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/TICH/bol-TICH-2023.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/TICH/bol-TICH-2023.pdf
+      \endverb
+    \endentry
+    \entry{DANE_Pobreza2024}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pobreza Monetaria 2024}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/PM/pres-PM-2024.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/PM/pres-PM-2024.pdf
+      \endverb
+    \endentry
+    \entry{DANE_Juventud2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradate}{1}
@@ -1293,7 +1780,7 @@
       \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
-      \field{extraname}{2}
+      \field{extraname}{4}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradate}{2}
@@ -1328,7 +1815,7 @@
       \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
-      \field{extraname}{3}
+      \field{extraname}{5}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradate}{3}
@@ -1344,6 +1831,107 @@
       \endverb
       \verb{url}
       \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
+      \endverb
+    \endentry
+    \entry{Ley1735}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1735 de 2014}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=59835
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=59835
+      \endverb
+    \endentry
+    \entry{Decreto1297}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decreto 1297 de 2022}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=190426
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=190426
+      \endverb
+    \endentry
+    \entry{Infobae01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc3a40da68b3b05d483919dfbb68686a}{%
+           family={{F. Saavedra}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Infobae}%
+      }
+      \strng{namehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{fullhash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{fullhashraw}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{bibnamehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authorbibnamehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authornamehash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authorfullhash}{fc3a40da68b3b05d483919dfbb68686a}
+      \strng{authorfullhashraw}{fc3a40da68b3b05d483919dfbb68686a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Informe reveló que el 43 por ciento de los colombianos se encuentra sobreendeudado: La mora es una señal de alerta}
+      \field{year}{2026}
+      \verb{urlraw}
+      \verb https://www.infobae.com/colombia/2026/02/14/informe-revelo-que-el-43-de-los-colombianos-se-encuentra-sobreendeudado-la-mora-es-una-senal-de-alerta/
+      \endverb
+      \verb{url}
+      \verb https://www.infobae.com/colombia/2026/02/14/informe-revelo-que-el-43-de-los-colombianos-se-encuentra-sobreendeudado-la-mora-es-una-senal-de-alerta/
       \endverb
     \endentry
     \entry{GrupoR01}{online}{}{}
@@ -1372,6 +1960,36 @@
       \endverb
       \verb{url}
       \verb https://www.grupor5.com/blog/finanzas/presupuesto-personal
+      \endverb
+    \endentry
+    \entry{InfoLaft01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1804a991becda0e2731a8bfbb0118ddb}{%
+           family={{Infolaft}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{fullhash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{fullhashraw}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{bibnamehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authorbibnamehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authornamehash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authorfullhash}{1804a991becda0e2731a8bfbb0118ddb}
+      \strng{authorfullhashraw}{1804a991becda0e2731a8bfbb0118ddb}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SARLAFT: sistemas vigentes en Colombia por cada sector}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.infolaft.com/sarlaft-los-sistemas-vigentes-colombia-sector
+      \endverb
+      \verb{url}
+      \verb https://www.infolaft.com/sarlaft-los-sistemas-vigentes-colombia-sector
       \endverb
     \endentry
     \entry{OECD01}{report}{}{}
@@ -1618,6 +2236,36 @@
       \verb https://scioteca.caf.com/bitstream/handle/123456789/379/caf_12_educaci_n_financiera5.pdf?sequence=1&isAllowed=y
       \endverb
     \endentry
+    \entry{Nequi01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13160f1ac57b4c5a9f0cf678b875f571}{%
+           family={{Nequi}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{fullhash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{fullhashraw}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{bibnamehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authorbibnamehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authornamehash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authorfullhash}{13160f1ac57b4c5a9f0cf678b875f571}
+      \strng{authorfullhashraw}{13160f1ac57b4c5a9f0cf678b875f571}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nequi les cuenta a sus usuarios cómo han movido su plata, en lo que va del año}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.nequi.com.co/personas/conocenos/sala-de-prensa/comunicado/nequi-les-cuenta-a-sus-usuarios-como-han
+      \endverb
+      \verb{url}
+      \verb https://www.nequi.com.co/personas/conocenos/sala-de-prensa/comunicado/nequi-les-cuenta-a-sus-usuarios-como-han
+      \endverb
+    \endentry
     \entry{OECD02}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17f189fc521be7805ffb16926be2deea}{%
@@ -1710,6 +2358,70 @@
       \endverb
       \verb{url}
       \verb https://www.bancomundial.org/content/dam/Worldbank/document/LAC/Capacidades%20Financieras%20en%20Colombia.pdf
+      \endverb
+    \endentry
+    \entry{RankingsLATAM01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f3759f480e3d5cb9cf853bad52bd9525}{%
+           family={{Rankings LATAM}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{fullhash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{fullhashraw}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{bibnamehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authorbibnamehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authornamehash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authorfullhash}{f3759f480e3d5cb9cf853bad52bd9525}
+      \strng{authorfullhashraw}{f3759f480e3d5cb9cf853bad52bd9525}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Competitive Performance and Financial Results of Banks and Financial Institutions in Colombia – December 2024 Rankings}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
+      \endverb
+      \verb{url}
+      \verb https://rankingslatam.com/en-co/blogs/industry-news/competitive-performance-and-financial-results-of-banks-and-financial-institutions-in-colombia-december-2024-rankings
+      \endverb
+    \endentry
+    \entry{Asobancaria02}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ec4451529ae275a3ad6603e61e90610}{%
+           family={{S. C. Gómez}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Asobancaria}%
+      }
+      \strng{namehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{fullhash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{fullhashraw}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{bibnamehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authorbibnamehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authornamehash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authorfullhash}{4ec4451529ae275a3ad6603e61e90610}
+      \strng{authorfullhashraw}{4ec4451529ae275a3ad6603e61e90610}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educación Económica y Financiera: motor de crecimiento y desarrollo sostenible}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.asobancaria.com/wp-content/uploads/2016/02/4664743.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.asobancaria.com/wp-content/uploads/2016/02/4664743.pdf
       \endverb
     \endentry
     \entry{Economipedia02}{online}{}{}

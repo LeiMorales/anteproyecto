@@ -3135,7 +3135,18 @@
     <bcf:citekey order="62" intorder="1">DANE01</bcf:citekey>
     <bcf:citekey order="63" intorder="1">RevistaCIES01</bcf:citekey>
     <bcf:citekey order="64" intorder="1">Departamento01</bcf:citekey>
-    <bcf:citekey order="65" intorder="1">BancadeOportunidades01</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">DANE_Pobreza2024</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">BancadeOportunidades01</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">DANE_Internet2023</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">Nequi01</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">RankingsLATAM01</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">InfoLaft01</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">Bancolombia01</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">Decreto1297</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">ColombiaFintech01</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">Ley1735</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">Asobancaria02</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">Infobae01</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
