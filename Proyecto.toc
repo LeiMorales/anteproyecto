@@ -22,4 +22,5 @@
 \contentsline {paragraph}{Presupuesto personal}{16}{figure.caption.5}%
 \contentsline {subsection}{Análisis de competencia}{18}{figure.caption.6}%
 \contentsline {subsection}{Análisis económico}{20}{figure.caption.6}%
-\contentsline {section}{Referencias}{24}{figure.caption.6}%
+\contentsline {subsection}{Marco referencial}{23}{figure.caption.6}%
+\contentsline {section}{Referencias}{25}{figure.caption.6}%
