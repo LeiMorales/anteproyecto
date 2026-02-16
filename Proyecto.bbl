@@ -344,6 +344,76 @@
       \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
       \endverb
     \endentry
+    \entry{DANE_Juventud2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mercado laboral de la juventud: Trimestre móvil agosto - octubre 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHMLJ-oct-dic2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHMLJ-oct-dic2025.pdf
+      \endverb
+    \endentry
+    \entry{DANE_Regiones}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mercado laboral por regiones: Primer semestre 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHRegiones-Isem2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHRegiones-Isem2025.pdf
+      \endverb
+    \endentry
     \entry{DANE01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
@@ -361,8 +431,10 @@
       \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -1169,6 +1241,76 @@
       \verb https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/estrategia_nacional_educacion_economica.pdf
       \endverb
     \endentry
+    \entry{DANE_Juventud2025}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mercado laboral de la juventud: Trimestre móvil agosto - octubre 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHMLJ-oct-dic2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHMLJ-oct-dic2025.pdf
+      \endverb
+    \endentry
+    \entry{DANE_Regiones}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
+           family={{Departamento Administrativo Nacional de Estadística}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{fullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{bibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorbibnamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
+      \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mercado laboral por regiones: Primer semestre 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHRegiones-Isem2025.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHRegiones-Isem2025.pdf
+      \endverb
+    \endentry
     \entry{DANE01}{report}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=57fa629724b5769c0ef034841eb2d6d3}{%
@@ -1186,8 +1328,10 @@
       \strng{authornamehash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhash}{57fa629724b5769c0ef034841eb2d6d3}
       \strng{authorfullhashraw}{57fa629724b5769c0ef034841eb2d6d3}
+      \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}

@@ -3121,6 +3121,21 @@
     <bcf:citekey order="48" intorder="1">Economipedia02</bcf:citekey>
     <bcf:citekey order="49" intorder="1">GrupoR01</bcf:citekey>
     <bcf:citekey order="50" intorder="1">Pulzo01</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">Asobancaria01</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">RevistaCIES01</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">RevistaCIES01</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">Asobancaria01</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">Asobancaria01</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">RevistaCIES01</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">DANE_Regiones</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">DANE_Regiones</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">DANE01</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">DANE01</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">DANE_Juventud2025</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">DANE01</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">RevistaCIES01</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">Departamento01</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">BancadeOportunidades01</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
