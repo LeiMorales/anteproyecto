@@ -37,4 +37,16 @@
 \contentsline {section}{Modelo de Negocio}{38}{section*.11}%
 \contentsline {subsection}{Segmento del Mercado (SM)}{39}{figure.caption.12}%
 \contentsline {subsection}{Propuesta de Valor (PV)}{40}{figure.caption.12}%
-\contentsline {section}{Referencias}{41}{figure.caption.12}%
+\contentsline {subsection}{Canales de Distribución (CD)}{40}{figure.caption.12}%
+\contentsline {subsection}{Relaciones con Clientes (CLI)}{40}{figure.caption.12}%
+\contentsline {subsection}{Fuentes de Ingresos (FI)}{41}{figure.caption.12}%
+\contentsline {subsection}{Actividades Clave (AC)}{41}{figure.caption.12}%
+\contentsline {subsection}{Recursos Clave (RC)}{41}{figure.caption.12}%
+\contentsline {subsection}{Socios Clave (SC)}{41}{figure.caption.12}%
+\contentsline {subsection}{Estructura de Costos(EC)}{42}{figure.caption.12}%
+\contentsline {section}{Metodología}{42}{figure.caption.12}%
+\contentsline {subsection}{Fase 1: Presentación y compromiso del equipo}{42}{section*.13}%
+\contentsline {subsection}{Fase 2: Análisis de la situación}{43}{table.caption.14}%
+\contentsline {subsection}{Fase 3: Definición de la empresa}{44}{table.caption.15}%
+\contentsline {subsection}{Fase 4: Estructuración}{44}{table.caption.16}%
+\contentsline {section}{Referencias}{46}{table.caption.17}%

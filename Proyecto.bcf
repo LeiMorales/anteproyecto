@@ -3210,6 +3210,7 @@
     <bcf:citekey order="133" intorder="1">RevistaCIES01</bcf:citekey>
     <bcf:citekey order="134" intorder="1">DANE01</bcf:citekey>
     <bcf:citekey order="135" intorder="1">Departamento01</bcf:citekey>
+    <bcf:citekey order="136" intorder="1">BusinessModel01</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
