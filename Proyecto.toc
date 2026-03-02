@@ -65,13 +65,14 @@
 \contentsline {subsection}{Misión}{52}{section*.23}%
 \contentsline {subsection}{Visión}{53}{section*.23}%
 \contentsline {subsection}{Valores}{53}{section*.23}%
-\contentsline {section}{Plan de Negocios}{54}{section*.23}%
-\contentsline {subsection}{Estudio de mercado}{54}{section*.24}%
-\contentsline {subsubsection}{Identificación del producto}{54}{section*.24}%
-\contentsline {subsubsection}{Demanda}{55}{section*.24}%
-\contentsline {subsubsection}{Oferta}{55}{section*.24}%
-\contentsline {subsubsection}{Plan de Marketing}{55}{section*.24}%
-\contentsline {paragraph}{Objetivos}{55}{section*.24}%
-\contentsline {paragraph}{Tácticas de marketing}{56}{section*.24}%
-\contentsline {paragraph}{Precios}{58}{figure.caption.25}%
-\contentsline {section}{Referencias}{60}{table.caption.26}%
+\contentsline {subsection}{Modelo organizacional}{54}{section*.23}%
+\contentsline {section}{Plan de Negocios}{54}{figure.caption.24}%
+\contentsline {subsection}{Estudio de mercado}{54}{section*.25}%
+\contentsline {subsubsection}{Identificación del producto}{54}{section*.25}%
+\contentsline {subsubsection}{Demanda}{55}{section*.25}%
+\contentsline {subsubsection}{Oferta}{55}{section*.25}%
+\contentsline {subsubsection}{Plan de Marketing}{55}{section*.25}%
+\contentsline {paragraph}{Objetivos}{56}{section*.25}%
+\contentsline {paragraph}{Tácticas de marketing}{56}{section*.25}%
+\contentsline {paragraph}{Precios}{58}{figure.caption.26}%
+\contentsline {section}{Referencias}{60}{table.caption.27}%
