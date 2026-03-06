@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  2 MAR 2026 15:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.4)  6 MAR 2026 15:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -966,11 +966,7 @@ LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported on input line 13.
- (Contenido/Indice.aux
-
-LaTeX Warning: Label `fig:logobconomy' multiply defined.
-
-))
+ (Contenido/Indice.aux))
 \openout1 = `Proyecto.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
@@ -1192,7 +1188,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [2]
-<Imagenes/ArboldeProblemas.png, id=372, 610.53094pt x 447.17062pt>
+<Imagenes/ArboldeProblemas.png, id=374, 610.53094pt x 447.17062pt>
 File: Imagenes/ArboldeProblemas.png Graphic file (type png)
 <use Imagenes/ArboldeProblemas.png>
 Package pdftex.def Info: Imagenes/ArboldeProblemas.png  used on input line 11.
@@ -1208,7 +1204,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3 <./Imagenes/ArboldeProblemas.png>])
 (Contenido/02. Planteamiento/FormulacionDelProblema.tex)
-(Contenido/02. Planteamiento/JustificacionDelProblema.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1217,7 +1212,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[4]
+[4] (Contenido/02. Planteamiento/JustificacionDelProblema.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1241,7 +1236,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 2.
 
-) (Contenido/03. Objetivos/ObjetivoEspecifico.tex
+)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1250,22 +1245,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[7])) (Contenido/04. Marco Teorico/MarcoTeorico.tex
+[7] (Contenido/03. Objetivos/ObjetivoEspecifico.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[8])) (Contenido/04. Marco Teorico/MarcoTeorico.tex
 (Contenido/04. Marco Teorico/DefinicionesPrevias.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 2.
 
 
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[8]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1337,7 +1332,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[16])
+[16]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1346,8 +1341,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[17] (Contenido/04. Marco Teorico/DescripcionDeCompetencia.tex
-<Imagenes/LogoDavivienda.png, id=500, 3854.4pt x 2168.1pt>
+[17]) (Contenido/04. Marco Teorico/DescripcionDeCompetencia.tex
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[18]
+<Imagenes/LogoDavivienda.png, id=510, 3854.4pt x 2168.1pt>
 File: Imagenes/LogoDavivienda.png Graphic file (type png)
 <use Imagenes/LogoDavivienda.png>
 Package pdftex.def Info: Imagenes/LogoDavivienda.png  used on input line 11.
@@ -1361,7 +1365,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[18]
+[19]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1370,7 +1374,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[19 <./Imagenes/LogoDavivienda.png>])
+[20 <./Imagenes/LogoDavivienda.png>])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1379,7 +1383,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[20] (Contenido/04. Marco Teorico/AnalisisEconomico.tex
+[21] (Contenido/04. Marco Teorico/AnalisisEconomico.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1388,7 +1392,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[21]
+[22]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1397,7 +1401,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[22]) (Contenido/04. Marco Teorico/MarcoReferencial.tex
+[23]) (Contenido/04. Marco Teorico/MarcoReferencial.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1406,7 +1410,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[23]
+[24]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
 .
  (C:\Users\david\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
@@ -1420,7 +1424,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[24]) (Contenido/04. Marco Teorico/Antecedentes.tex
+[25]) (Contenido/04. Marco Teorico/Antecedentes.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 5.
@@ -1440,7 +1444,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[25]
+[26]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1449,8 +1453,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[26]
-<Imagenes/LogoVivaSeguro.jpg, id=596, 325.215pt x 155.58125pt>
+[27]
+<Imagenes/LogoVivaSeguro.jpg, id=606, 325.215pt x 155.58125pt>
 File: Imagenes/LogoVivaSeguro.jpg Graphic file (type jpg)
 <use Imagenes/LogoVivaSeguro.jpg>
 Package pdftex.def Info: Imagenes/LogoVivaSeguro.jpg  used on input line 23.
@@ -1464,16 +1468,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[27 <./Imagenes/LogoVivaSeguro.jpg>]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[28]
+[28 <./Imagenes/LogoVivaSeguro.jpg>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1509,7 +1504,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[32]) (Contenido/04. Marco Teorico/Competencia.tex
+[32]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[33]) (Contenido/04. Marco Teorico/Competencia.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 7.
@@ -1523,13 +1527,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[33]
-<Imagenes/LogoBConomy.png, id=667, 415.5525pt x 122.4575pt>
+[34]
+<Imagenes/LogoBConomy.png, id=677, 415.5525pt x 122.4575pt>
 File: Imagenes/LogoBConomy.png Graphic file (type png)
 <use Imagenes/LogoBConomy.png>
 Package pdftex.def Info: Imagenes/LogoBConomy.png  used on input line 12.
 (pdftex.def)             Requested size: 284.52756pt x 83.84923pt.
-<Imagenes/LogoFintonic.png, id=669, 301.125pt x 168.63pt>
+<Imagenes/LogoFintonic.png, id=679, 301.125pt x 168.63pt>
 File: Imagenes/LogoFintonic.png Graphic file (type png)
 <use Imagenes/LogoFintonic.png>
 Package pdftex.def Info: Imagenes/LogoFintonic.png  used on input line 23.
@@ -1543,8 +1547,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[34 <./Imagenes/LogoBConomy.png> <./Imagenes/LogoFintonic.png>]
-<Imagenes/LogoNequi.png, id=678, 903.375pt x 508.14844pt>
+[35 <./Imagenes/LogoBConomy.png> <./Imagenes/LogoFintonic.png>]
+<Imagenes/LogoNequi.png, id=688, 903.375pt x 508.14844pt>
 File: Imagenes/LogoNequi.png Graphic file (type png)
 <use Imagenes/LogoNequi.png>
 Package pdftex.def Info: Imagenes/LogoNequi.png  used on input line 34.
@@ -1564,7 +1568,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[35 <./Imagenes/LogoNequi.png>]
+[36 <./Imagenes/LogoNequi.png>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1573,7 +1577,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[36]) (Contenido/04. Marco Teorico/ConceptosDeModeloDeNegocio.tex
+[37]) (Contenido/04. Marco Teorico/ConceptosDeModeloDeNegocio.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1582,7 +1586,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[37]
+[38]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 5.
@@ -1596,7 +1600,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[38]
+[39]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1605,8 +1609,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[39]
-<Imagenes/PlantillaModeloCanvas.jpg, id=710, 880.79062pt x 495.35063pt>
+[40]
+<Imagenes/PlantillaModeloCanvas.jpg, id=720, 880.79062pt x 495.35063pt>
 File: Imagenes/PlantillaModeloCanvas.jpg Graphic file (type jpg)
 <use Imagenes/PlantillaModeloCanvas.jpg>
 Package pdftex.def Info: Imagenes/PlantillaModeloCanvas.jpg  used on input line
@@ -1627,7 +1631,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[40 <./Imagenes/PlantillaModeloCanvas.jpg>])
+[41 <./Imagenes/PlantillaModeloCanvas.jpg>])
 (Contenido/05. Alcances y Limitaciones/Limitaciones.tex
 
 
@@ -1637,7 +1641,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[41])) (Contenido/06. Modelo de Negocio/ModeloDeNegocio.tex
+[42])) (Contenido/06. Modelo de Negocio/ModeloDeNegocio.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1646,8 +1650,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[42]
-<Imagenes/ModeloCanvas.png, id=725, 770.88pt x 578.16pt>
+[43]
+<Imagenes/ModeloCanvas.png, id=736, 770.88pt x 578.16pt>
 File: Imagenes/ModeloCanvas.png Graphic file (type png)
 <use Imagenes/ModeloCanvas.png>
 Package pdftex.def Info: Imagenes/ModeloCanvas.png  used on input line 8.
@@ -1661,7 +1665,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[43 <./Imagenes/ModeloCanvas.png (PNG copy)>])
+[44 <./Imagenes/ModeloCanvas.png (PNG copy)>])
 (Contenido/06. Modelo de Negocio/PropuestaDeValor.tex)
 
 
@@ -1671,7 +1675,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[44] (Contenido/06. Modelo de Negocio/CanalesDeDistribucion.tex)
+[45] (Contenido/06. Modelo de Negocio/CanalesDeDistribucion.tex)
 (Contenido/06. Modelo de Negocio/RelacionesConClientes.tex)
 (Contenido/06. Modelo de Negocio/FuentesDeIngresos.tex)
 
@@ -1682,7 +1686,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[45] (Contenido/06. Modelo de Negocio/ActividadesClave.tex)
+[46] (Contenido/06. Modelo de Negocio/ActividadesClave.tex)
 (Contenido/06. Modelo de Negocio/RecursosClave.tex)
 (Contenido/06. Modelo de Negocio/SociosClave.tex)
 
@@ -1693,7 +1697,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[46] (Contenido/06. Modelo de Negocio/EstructuraDeCostos.tex))
+[47] (Contenido/06. Modelo de Negocio/EstructuraDeCostos.tex))
 (Contenido/07. Metodologia/Metodologia.tex (Contenido/07. Metodologia/Fase1.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
@@ -1708,7 +1712,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[47]) (Contenido/07. Metodologia/Fase2.tex)
+[48]) (Contenido/07. Metodologia/Fase2.tex)
 (Contenido/07. Metodologia/Fase3.tex
 
 
@@ -1718,7 +1722,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[48]) (Contenido/07. Metodologia/Fase4.tex
+[49]) (Contenido/07. Metodologia/Fase4.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1727,8 +1731,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[49]) (Contenido/07. Metodologia/Cronograma.tex
-<Imagenes/CronogramaActualizado.png, id=763, 852.18375pt x 523.9575pt>
+[50]) (Contenido/07. Metodologia/Cronograma.tex
+<Imagenes/CronogramaActualizado.png, id=773, 852.18375pt x 523.9575pt>
 File: Imagenes/CronogramaActualizado.png Graphic file (type png)
 <use Imagenes/CronogramaActualizado.png>
 Package pdftex.def Info: Imagenes/CronogramaActualizado.png  used on input line
@@ -1743,7 +1747,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[50]
+[51]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1752,7 +1756,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[51 <./Imagenes/CronogramaActualizado.png>]))
+[52 <./Imagenes/CronogramaActualizado.png>]))
 (Contenido/08. Información de la Empresa/Información.tex
 (Contenido/08. Información de la Empresa/Mision.tex
 
@@ -1768,9 +1772,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[52] (Contenido/08. Información de la Empresa/Valores.tex)
+[53] (Contenido/08. Información de la Empresa/Valores.tex)
 (Contenido/08. Información de la Empresa/Modelo Organizacional.tex
-<Imagenes/ModeloOrganizacional.png, id=777, 924.45375pt x 462.72874pt>
+<Imagenes/ModeloOrganizacional.png, id=787, 924.45375pt x 462.72874pt>
 File: Imagenes/ModeloOrganizacional.png Graphic file (type png)
 <use Imagenes/ModeloOrganizacional.png>
 Package pdftex.def Info: Imagenes/ModeloOrganizacional.png  used on input line 
@@ -1785,7 +1789,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[53] (Contenido/09. Plan de Negocios/PlanNegocios.tex
+[54] (Contenido/09. Plan de Negocios/PlanNegocios.tex
 (Contenido/09. Plan de Negocios/EstudioMercado.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
@@ -1800,16 +1804,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[54 <./Imagenes/ModeloOrganizacional.png>]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[55]
+[55 <./Imagenes/ModeloOrganizacional.png>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1819,7 +1814,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [56]
-<Imagenes/PasosInboundMarketing.jpeg, id=797, 2358.8125pt x 1084.05pt>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[57]
+<Imagenes/PasosInboundMarketing.jpeg, id=807, 2358.8125pt x 1084.05pt>
 File: Imagenes/PasosInboundMarketing.jpeg Graphic file (type jpg)
 <use Imagenes/PasosInboundMarketing.jpeg>
 Package pdftex.def Info: Imagenes/PasosInboundMarketing.jpeg  used on input lin
@@ -1834,7 +1838,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[57 <./Imagenes/PasosInboundMarketing.jpeg>]
+[58 <./Imagenes/PasosInboundMarketing.jpeg>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1843,42 +1847,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[58])))
+[59])) (Contenido/AA. Producto Minimo Viable/PMV.tex
+(Contenido/AA. Producto Minimo Viable/Presupuesto.tex
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[59]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[60
-
-
-]
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 27.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{27.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
-
-[61]
-Overfull \hbox (1.5583pt too wide) in paragraph at lines 102--102
-[][]\OT1/ptm/m/n/12 F. P[]ubli-ca. (2022). \OT1/ptm/m/it/12 De-cre-to 1297 de 2
-022\OT1/ptm/m/n/12 . []$https : / / www . funcionpublica . gov . co / eva / ges
-tornormativo /
- []
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 2.
 
 
 
@@ -1889,14 +1862,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[62]
-Overfull \hbox (8.28787pt too wide) in paragraph at lines 102--102
-[][]\OT1/ptm/m/n/12 Gratton, P. (2025). \OT1/ptm/m/it/12 Por-ter's fi-ve for-ce
-s ex-plai-ned and how to use the mo-del\OT1/ptm/m/n/12 . []$https : / / www . i
-nvestopedia .
- []
+[60]
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[61])) (Contenido/BB. Anexos/Anexos.tex
+<Imagenes/MetodoCuadros.png, id=827, 735.74875pt x 570.13pt>
+File: Imagenes/MetodoCuadros.png Graphic file (type png)
+<use Imagenes/MetodoCuadros.png>
+Package pdftex.def Info: Imagenes/MetodoCuadros.png  used on input line 6.
+(pdftex.def)             Requested size: 341.43306pt x 264.58574pt.
+))
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[62 <./Imagenes/MetodoCuadros.png>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1914,7 +1904,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[64]
+[64
+
+
+]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1924,6 +1917,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [65]
+Overfull \hbox (1.5583pt too wide) in paragraph at lines 102--102
+[][]\OT1/ptm/m/n/12 F. P[]ubli-ca. (2022). \OT1/ptm/m/it/12 De-cre-to 1297 de 2
+022\OT1/ptm/m/n/12 . []$https : / / www . funcionpublica . gov . co / eva / ges
+tornormativo /
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1933,6 +1933,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
 [66]
+Overfull \hbox (8.28787pt too wide) in paragraph at lines 102--102
+[][]\OT1/ptm/m/n/12 Gratton, P. (2025). \OT1/ptm/m/it/12 Por-ter's fi-ve for-ce
+s ex-plai-ned and how to use the mo-del\OT1/ptm/m/n/12 . []$https : / / www . i
+nvestopedia .
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1941,7 +1948,43 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
 
-[67] (Proyecto.aux
+[67]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[68]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[69]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[70]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 27.03389pt, for example:
+(fancyhdr)                \setlength{\headheight}{27.03389pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-15.03389pt}.
+
+[71] (Proyecto.aux
 LaTeX Info: Redefining \sptext on input line 13.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
@@ -1950,56 +1993,30 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-
-Package rerunfilecheck Warning: File `Proyecto.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Proyecto.out':
-(rerunfilecheck)             Before: 7B15E259559015FF093084C2642CC23F;11098
-(rerunfilecheck)             After:  FD00A18111187C3C7AB0601BB1C1C645;10690.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+Package rerunfilecheck Info: File `Proyecto.out' has not changed.
+(rerunfilecheck)             Checksum: 856C480855923CB64E66DBB5B9673C5A;11058.
 Package logreq Info: Writing requests to 'Proyecto.run.xml'.
 \openout1 = `Proyecto.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27220 strings out of 468132
- 524907 string characters out of 5430698
- 1456654 words of memory out of 5000000
- 55203 multiletter control sequences out of 15000+600000
- 644592 words of font info for 84 fonts, out of 8000000 for 9000
+ 27278 strings out of 468132
+ 527257 string characters out of 5430698
+ 1456892 words of memory out of 5000000
+ 55240 multiletter control sequences out of 15000+600000
+ 644903 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,19n,90p,1517b,2903s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{table.caption.30} has been referenced but does not 
-exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.caption.29} has been referenced but does not
- exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section*.28} has been referenced but does not exist
-, replaced by a fixed one
-
-<C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/u
-crr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
-tmb8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/u
-tmbi8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
-utmr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
-utmri8a.pfb>
-Output written on Proyecto.pdf (73 pages, 1967529 bytes).
+<C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier
+/ucrr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmb8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
+/utmbi8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
+s/utmr8a.pfb><C:/Users/david/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
+s/utmri8a.pfb>
+Output written on Proyecto.pdf (77 pages, 2079741 bytes).
 PDF statistics:
- 1044 PDF objects out of 1200 (max. 8388607)
- 167 named destinations out of 1000 (max. 500000)
- 597 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1075 PDF objects out of 1200 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 602 words of extra memory for PDF output out of 10000 (max. 10000000)
 

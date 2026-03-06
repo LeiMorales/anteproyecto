@@ -2,15 +2,15 @@
 \contentsline {section}{Introducción}{1}{section*.1}%
 \contentsline {section}{Planteamiento del Problema}{2}{section*.1}%
 \contentsline {subsection}{Descripción del Problema}{3}{figure.caption.2}%
-\contentsline {subsection}{Formulación del Problema}{4}{figure.caption.2}%
-\contentsline {subsection}{Justificación del Problema}{4}{figure.caption.2}%
-\contentsline {section}{Objetivos}{7}{figure.caption.2}%
-\contentsline {subsection}{Objetivo General}{7}{section*.3}%
-\contentsline {subsection}{Objetivo Específicos}{7}{section*.3}%
-\contentsline {section}{Marco Teórico}{8}{section*.3}%
-\contentsline {subsection}{Definiciones previas}{8}{section*.4}%
-\contentsline {subsubsection}{Finanzas personales}{8}{section*.4}%
-\contentsline {subsubsection}{Nómadas digitales}{9}{section*.4}%
+\contentsline {subsection}{Formulación del Problema}{5}{figure.caption.2}%
+\contentsline {subsection}{Justificación del Problema}{5}{figure.caption.2}%
+\contentsline {section}{Objetivos}{8}{figure.caption.2}%
+\contentsline {subsection}{Objetivo General}{8}{section*.3}%
+\contentsline {subsection}{Objetivo Específicos}{8}{section*.3}%
+\contentsline {section}{Marco Teórico}{9}{section*.3}%
+\contentsline {subsection}{Definiciones previas}{9}{section*.4}%
+\contentsline {subsubsection}{Finanzas personales}{9}{section*.4}%
+\contentsline {subsubsection}{Nómadas digitales}{10}{section*.4}%
 \contentsline {subsubsection}{Plan de negocio}{10}{section*.4}%
 \contentsline {paragraph}{Asesoramiento financiero}{11}{section*.4}%
 \contentsline {subsubsection}{Herramientas tecnológicas para el asesoramiento financiero}{12}{section*.4}%
@@ -18,61 +18,65 @@
 \contentsline {paragraph}{Educación financiera}{14}{section*.4}%
 \contentsline {paragraph}{Inclusión financiera}{14}{section*.4}%
 \contentsline {paragraph}{Tecnología financiera (FinTech)}{15}{section*.4}%
-\contentsline {paragraph}{Bienestar financiero}{15}{section*.4}%
-\contentsline {paragraph}{Presupuesto personal}{16}{section*.4}%
-\contentsline {paragraph}{Aprendizaje Automático (Machine Learning)}{17}{section*.4}%
-\contentsline {subsection}{Descripción de competencia}{18}{section*.4}%
-\contentsline {subsection}{Análisis económico}{21}{figure.caption.5}%
-\contentsline {subsection}{Marco referencial}{23}{figure.caption.5}%
-\contentsline {subsection}{Antecedentes}{25}{figure.caption.5}%
-\contentsline {subsubsection}{Nivel regional}{25}{section*.6}%
-\contentsline {subsubsection}{Nivel global}{28}{figure.caption.7}%
-\contentsline {paragraph}{Niveles e Iniciativas Mundiales de Alfabetización Financiera}{30}{figure.caption.7}%
-\contentsline {paragraph}{Participación del sector privado y casos de éxito}{31}{figure.caption.7}%
-\contentsline {section}{Competencia}{33}{figure.caption.7}%
-\contentsline {subsection}{BBVA Bconomy}{33}{section*.8}%
-\contentsline {subsection}{Fintonic}{34}{figure.caption.9}%
-\contentsline {subsection}{Nequi}{35}{figure.caption.10}%
-\contentsline {section}{Análisis de la competencia}{35}{figure.caption.11}%
-\contentsline {subsection}{Rivalidad entre competidores existentes}{36}{section*.12}%
-\contentsline {subsection}{Amenaza de nuevos entrantes}{36}{section*.12}%
-\contentsline {subsection}{Poder de negociación de los proveedores}{36}{section*.12}%
-\contentsline {subsection}{Poder de negociación de los clientes}{37}{section*.12}%
-\contentsline {subsection}{Amenaza de productos sustitutos}{37}{section*.12}%
-\contentsline {subsection}{Conceptos de Modelo de Negocio}{38}{section*.12}%
-\contentsline {subsubsection}{Modelo de Negocio}{38}{section*.13}%
-\contentsline {subsubsection}{Modelo Canvas}{39}{section*.13}%
-\contentsline {section}{Alcances y Limitaciones}{41}{figure.caption.14}%
-\contentsline {subsection}{Alcances}{41}{section*.15}%
-\contentsline {subsection}{Limitaciones}{42}{section*.15}%
-\contentsline {section}{Modelo de Negocio}{42}{section*.15}%
-\contentsline {subsection}{Segmento del Mercado (SM)}{44}{figure.caption.16}%
-\contentsline {subsection}{Propuesta de Valor (PV)}{45}{figure.caption.16}%
-\contentsline {subsection}{Canales de Distribución (CD)}{45}{figure.caption.16}%
-\contentsline {subsection}{Relaciones con Clientes (CLI)}{45}{figure.caption.16}%
-\contentsline {subsection}{Fuentes de Ingresos (FI)}{46}{figure.caption.16}%
-\contentsline {subsection}{Actividades Clave (AC)}{46}{figure.caption.16}%
-\contentsline {subsection}{Recursos Clave (RC)}{46}{figure.caption.16}%
-\contentsline {subsection}{Socios Clave (SC)}{46}{figure.caption.16}%
-\contentsline {subsection}{Estructura de Costos(EC)}{47}{figure.caption.16}%
-\contentsline {section}{Metodología}{47}{figure.caption.16}%
-\contentsline {subsection}{Fase 1: Presentación y compromiso del equipo}{47}{section*.17}%
-\contentsline {subsection}{Fase 2: Análisis de la situación}{48}{table.caption.18}%
-\contentsline {subsection}{Fase 3: Definición de la empresa}{49}{table.caption.19}%
-\contentsline {subsection}{Fase 4: Estructuración}{49}{table.caption.20}%
-\contentsline {subsection}{Cronograma}{50}{table.caption.21}%
-\contentsline {section}{Información de la Empresa}{52}{figure.caption.22}%
-\contentsline {subsection}{Misión}{52}{section*.23}%
-\contentsline {subsection}{Visión}{53}{section*.23}%
-\contentsline {subsection}{Valores}{53}{section*.23}%
-\contentsline {subsection}{Modelo organizacional}{54}{section*.23}%
-\contentsline {section}{Plan de Negocios}{54}{figure.caption.24}%
-\contentsline {subsection}{Estudio de mercado}{54}{section*.25}%
-\contentsline {subsubsection}{Identificación del producto}{54}{section*.25}%
-\contentsline {subsubsection}{Demanda}{55}{section*.25}%
-\contentsline {subsubsection}{Oferta}{55}{section*.25}%
-\contentsline {subsubsection}{Plan de Marketing}{55}{section*.25}%
-\contentsline {paragraph}{Objetivos}{56}{section*.25}%
-\contentsline {paragraph}{Tácticas de marketing}{56}{section*.25}%
-\contentsline {paragraph}{Precios}{58}{figure.caption.26}%
-\contentsline {section}{Referencias}{60}{table.caption.27}%
+\contentsline {paragraph}{Educación financiera (EdTech)}{15}{section*.4}%
+\contentsline {paragraph}{Bienestar financiero}{16}{section*.4}%
+\contentsline {paragraph}{Presupuesto personal}{17}{section*.4}%
+\contentsline {paragraph}{Aprendizaje Automático (Machine Learning)}{18}{section*.4}%
+\contentsline {subsection}{Descripción de competencia}{19}{section*.4}%
+\contentsline {subsection}{Análisis económico}{22}{figure.caption.5}%
+\contentsline {subsection}{Marco referencial}{24}{figure.caption.5}%
+\contentsline {subsection}{Antecedentes}{26}{figure.caption.5}%
+\contentsline {subsubsection}{Nivel regional}{26}{section*.6}%
+\contentsline {subsubsection}{Nivel global}{29}{figure.caption.7}%
+\contentsline {paragraph}{Niveles e Iniciativas Mundiales de Alfabetización Financiera}{31}{figure.caption.7}%
+\contentsline {paragraph}{Participación del sector privado y casos de éxito}{32}{figure.caption.7}%
+\contentsline {section}{Competencia}{34}{figure.caption.7}%
+\contentsline {subsection}{BBVA Bconomy}{34}{section*.8}%
+\contentsline {subsection}{Fintonic}{35}{figure.caption.9}%
+\contentsline {subsection}{Nequi}{36}{figure.caption.10}%
+\contentsline {section}{Análisis de la competencia}{36}{figure.caption.11}%
+\contentsline {subsection}{Rivalidad entre competidores existentes}{37}{section*.12}%
+\contentsline {subsection}{Amenaza de nuevos entrantes}{37}{section*.12}%
+\contentsline {subsection}{Poder de negociación de los proveedores}{37}{section*.12}%
+\contentsline {subsection}{Poder de negociación de los clientes}{38}{section*.12}%
+\contentsline {subsection}{Amenaza de productos sustitutos}{38}{section*.12}%
+\contentsline {subsection}{Conceptos de Modelo de Negocio}{39}{section*.12}%
+\contentsline {subsubsection}{Modelo de Negocio}{39}{section*.13}%
+\contentsline {subsubsection}{Modelo Canvas}{40}{section*.13}%
+\contentsline {section}{Alcances y Limitaciones}{42}{figure.caption.14}%
+\contentsline {subsection}{Alcances}{42}{section*.15}%
+\contentsline {subsection}{Limitaciones}{43}{section*.15}%
+\contentsline {section}{Modelo de Negocio}{43}{section*.15}%
+\contentsline {subsection}{Segmento del Mercado (SM)}{45}{figure.caption.16}%
+\contentsline {subsection}{Propuesta de Valor (PV)}{46}{figure.caption.16}%
+\contentsline {subsection}{Canales de Distribución (CD)}{46}{figure.caption.16}%
+\contentsline {subsection}{Relaciones con Clientes (CLI)}{46}{figure.caption.16}%
+\contentsline {subsection}{Fuentes de Ingresos (FI)}{47}{figure.caption.16}%
+\contentsline {subsection}{Actividades Clave (AC)}{47}{figure.caption.16}%
+\contentsline {subsection}{Recursos Clave (RC)}{47}{figure.caption.16}%
+\contentsline {subsection}{Socios Clave (SC)}{47}{figure.caption.16}%
+\contentsline {subsection}{Estructura de Costos(EC)}{48}{figure.caption.16}%
+\contentsline {section}{Metodología}{48}{figure.caption.16}%
+\contentsline {subsection}{Fase 1: Presentación y compromiso del equipo}{48}{section*.17}%
+\contentsline {subsection}{Fase 2: Análisis de la situación}{49}{table.caption.18}%
+\contentsline {subsection}{Fase 3: Definición de la empresa}{50}{table.caption.19}%
+\contentsline {subsection}{Fase 4: Estructuración}{50}{table.caption.20}%
+\contentsline {subsection}{Cronograma}{51}{table.caption.21}%
+\contentsline {section}{Información de la Empresa}{53}{figure.caption.22}%
+\contentsline {subsection}{Misión}{53}{section*.23}%
+\contentsline {subsection}{Visión}{54}{section*.23}%
+\contentsline {subsection}{Valores}{54}{section*.23}%
+\contentsline {subsection}{Modelo organizacional}{55}{section*.23}%
+\contentsline {section}{Plan de Negocios}{55}{figure.caption.24}%
+\contentsline {subsection}{Estudio de mercado}{55}{section*.25}%
+\contentsline {subsubsection}{Identificación del producto}{55}{section*.25}%
+\contentsline {subsubsection}{Demanda}{56}{section*.25}%
+\contentsline {subsubsection}{Oferta}{56}{section*.25}%
+\contentsline {subsubsection}{Plan de Marketing}{56}{section*.25}%
+\contentsline {paragraph}{Objetivos}{57}{section*.25}%
+\contentsline {paragraph}{Tácticas de marketing}{57}{section*.25}%
+\contentsline {paragraph}{Precios}{59}{figure.caption.26}%
+\contentsline {section}{Producto Mínimo Viable}{60}{table.caption.27}%
+\contentsline {subsection}{Presupuesto}{60}{section*.28}%
+\contentsline {section}{Anexos}{62}{table.caption.29}%
+\contentsline {section}{Referencias}{64}{table.caption.31}%
