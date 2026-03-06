@@ -1056,6 +1056,42 @@
       \verb https://www.investopedia.com/terms/p/porter.asp
       \endverb
     \endentry
+    \entry{LaSillaVacia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a72ac2f874b259bb0ea2dc78f6f8b3ca}{%
+           family={Grueso},
+           familyi={G\bibinitperiod},
+           given={Merlin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {La Silla Vacía}%
+      }
+      \strng{namehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{fullhash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{fullhashraw}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{bibnamehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authorbibnamehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authornamehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authorfullhash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authorfullhashraw}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Las Edtech pueden empoderar a las mujeres rurales}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/empoderamiento-economico-de-las-mujeres-rurales-una-mirada-desde-las-soluciones-edtech/
+      \endverb
+      \verb{url}
+      \verb https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/empoderamiento-economico-de-las-mujeres-rurales-una-mirada-desde-las-soluciones-edtech/
+      \endverb
+    \endentry
     \entry{GrupoR01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
@@ -2130,6 +2166,36 @@
       \endverb
       \verb{url}
       \verb https://comunicacion.uva.es/en/detalle/Un-proyecto-europeo-prepara-dos-herramientas-digitales-que-educaran-en-finanzas-a-estudiantes-y-profesionales
+      \endverb
+    \endentry
+    \entry{UniversidadEuropea01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ac0998186e715066452b99f063040825}{%
+           family={{Universidad Europea}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac0998186e715066452b99f063040825}
+      \strng{fullhash}{ac0998186e715066452b99f063040825}
+      \strng{fullhashraw}{ac0998186e715066452b99f063040825}
+      \strng{bibnamehash}{ac0998186e715066452b99f063040825}
+      \strng{authorbibnamehash}{ac0998186e715066452b99f063040825}
+      \strng{authornamehash}{ac0998186e715066452b99f063040825}
+      \strng{authorfullhash}{ac0998186e715066452b99f063040825}
+      \strng{authorfullhashraw}{ac0998186e715066452b99f063040825}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Edtech: ¿qué es la tecnología educativa y cómo está transformando la educación?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://universidadeuropea.com/blog/que-es-edtech/
+      \endverb
+      \verb{url}
+      \verb https://universidadeuropea.com/blog/que-es-edtech/
       \endverb
     \endentry
     \entry{Pulzo01}{online}{}{}
@@ -3234,6 +3300,42 @@
       \verb https://www.investopedia.com/terms/p/porter.asp
       \endverb
     \endentry
+    \entry{LaSillaVacia01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a72ac2f874b259bb0ea2dc78f6f8b3ca}{%
+           family={Grueso},
+           familyi={G\bibinitperiod},
+           given={Merlin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {La Silla Vacía}%
+      }
+      \strng{namehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{fullhash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{fullhashraw}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{bibnamehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authorbibnamehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authornamehash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authorfullhash}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \strng{authorfullhashraw}{a72ac2f874b259bb0ea2dc78f6f8b3ca}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Las Edtech pueden empoderar a las mujeres rurales}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/empoderamiento-economico-de-las-mujeres-rurales-una-mirada-desde-las-soluciones-edtech/
+      \endverb
+      \verb{url}
+      \verb https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/empoderamiento-economico-de-las-mujeres-rurales-una-mirada-desde-las-soluciones-edtech/
+      \endverb
+    \endentry
     \entry{GrupoR01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=108130e36261360393228eb2da6fb622}{%
@@ -4308,6 +4410,36 @@
       \endverb
       \verb{url}
       \verb https://comunicacion.uva.es/en/detalle/Un-proyecto-europeo-prepara-dos-herramientas-digitales-que-educaran-en-finanzas-a-estudiantes-y-profesionales
+      \endverb
+    \endentry
+    \entry{UniversidadEuropea01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ac0998186e715066452b99f063040825}{%
+           family={{Universidad Europea}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac0998186e715066452b99f063040825}
+      \strng{fullhash}{ac0998186e715066452b99f063040825}
+      \strng{fullhashraw}{ac0998186e715066452b99f063040825}
+      \strng{bibnamehash}{ac0998186e715066452b99f063040825}
+      \strng{authorbibnamehash}{ac0998186e715066452b99f063040825}
+      \strng{authornamehash}{ac0998186e715066452b99f063040825}
+      \strng{authorfullhash}{ac0998186e715066452b99f063040825}
+      \strng{authorfullhashraw}{ac0998186e715066452b99f063040825}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Edtech: ¿qué es la tecnología educativa y cómo está transformando la educación?}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://universidadeuropea.com/blog/que-es-edtech/
+      \endverb
+      \verb{url}
+      \verb https://universidadeuropea.com/blog/que-es-edtech/
       \endverb
     \endentry
     \entry{Pulzo01}{online}{}{}
