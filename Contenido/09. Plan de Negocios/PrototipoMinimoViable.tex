@@ -1,11 +1,84 @@
 \subsection*{Prototipo mínimo viable}
 \addcontentsline{toc}{subsection}{Producto mínimo viable}
 
-Para poder construir y desarrollar el prototipo mínimo viable, se usará un estilo de arquitectura por cadas, dentro de la cual, cada capa se encarga de tareas específicas, tales como veremos a continuación. Este enfoque nos permite además organizarnos mejor, ser modulares, mantener y escalar el sistema.
+%Falta introduccion a la seccion, colocar la diferencia entre arquitectura del sistema y despliegue del sistema, la arquitectura es de microservicios pero el despliegue si es por capas
 
-Se seleccionó la arquitectura por medio de capas debido a que es una de las arquitecturas mas comúnmente usadas y conocidas dentro del mundo del diseño de software, lo que proporcionará a nuestro equipo una mayor facilidad en el momento de guardarse en el desarrollo y documentar el sistema.
 
-A continuación detallamos las tecnologías que usaremos y las razones por las cuales fueron seleccionadas para el proyecto:
+
+
+%Para poder construir y desarrollar el prototipo mínimo viable, se usará un estilo de arquitectura por cadas, dentro de la cual, cada capa se encarga de tareas específicas, tales como veremos a continuación. Este enfoque nos permite además organizarnos mejor, ser modulares, mantener y escalar el sistema.
+
+%Se seleccionó la arquitectura por medio de capas debido a que es una de las arquitecturas mas comúnmente usadas y conocidas dentro del mundo del diseño de software, lo que proporcionará a nuestro equipo una mayor facilidad en el momento de guardarse en el desarrollo y documentar el sistema.
+
+%A continuación detallamos las tecnologías que usaremos y las razones por las cuales fueron seleccionadas para el proyecto:
+
+\subsection*{Arquitectura del Sistema}
+\addcontentsline{toc}{subsection}{Arquitectura del Sistema}
+
+Para el desarrollo de la plataforma, se propone una \textbf{Arquitectura de Microservicios} basada en la nube, la cual permite desacoplar las funcionalidades críticas del sistema para garantizar escalabilidad, mantenibilidad y alta disponibilidad. Esta estructura es ideal para un ecosistema digital que integra procesamiento de datos financieros y algoritmos de aprendizaje automático, facilitando la actualización independiente de cada componente sin afectar la integridad global del servicio.
+
+Los componentes principales de la arquitectura se dividen en las siguientes capas:
+
+\begin{itemize}
+	\item \textbf{Capa de Presentación (Frontend):} Desarrollada bajo un enfoque de aplicación web progresiva (PWA), permitiendo el acceso multiplataforma. Se centra en la entrega de interfaces didácticas y simuladores interactivos con una experiencia de usuario (UX) optimizada para dispositivos móviles.
+	
+	\item \textbf{Capa de Lógica de Negocio (Backend):} Compuesta por microservicios independientes que gestionan la autenticación de usuarios, la lógica de los simuladores financieros y la administración de módulos educativos. 
+	
+	\item \textbf{Capa de Inteligencia Artificial (AI Service):} Un servicio especializado dedicado al entrenamiento y ejecución de modelos de \textit{Machine Learning}. Este componente consume datos de comportamiento del usuario para generar recomendaciones personalizadas y proyecciones financieras adaptativas \parencite{BBVAResearch01}.
+	
+	\item \textbf{Capa de Datos:} Implementación de una base de datos híbrida que utiliza sistemas relacionales (PostgreSQL) para la gestión de transacciones y perfiles de usuario, junto con almacenes de datos no relacionales (NoSQL) para el procesamiento de grandes volúmenes de eventos y telemetría de aprendizaje.
+\end{itemize}
+
+\subsubsection*{Justificación Técnica de la Arquitectura}
+
+La elección de microservicios sobre una arquitectura monolítica responde a la naturaleza del emprendimiento bajo la metodología \textit{Lean Startup}. Esta arquitectura permite:
+\begin{enumerate}
+	\item \textbf{Escalabilidad Adaptativa:} Capacidad de aumentar los recursos del microservicio de IA durante picos de demanda sin necesidad de replicar todo el sistema.
+	\item \textbf{Resiliencia:} Si el módulo de recomendaciones experimenta una falla, las herramientas básicas de simulación y el contenido educativo permanecen operativos para el usuario.
+	\item \textbf{Integración Continua:} Facilita el despliegue de actualizaciones rápidas basadas en la retroalimentación del mercado en Bogotá, permitiendo pivotar funcionalidades técnicas de manera ágil.
+\end{enumerate}
+
+\subsubsection*{Modelado de la Infraestructura y Componentes}
+
+A continuación, se describen los diagramas técnicos que representan la organización lógica y la distribución física de la plataforma.
+
+\paragraph*{Diagrama de Arquitectura Lógica}
+Este diagrama ilustra la interacción entre los distintos servicios a través de un \textit{API Gateway}, que actúa como punto de entrada único para las solicitudes de los usuarios.
+
+
+
+\begin{itemize}
+	\item \textbf{API Gateway:} Gestiona el enrutamiento, la autenticación mediante \textit{JSON Web Tokens} (JWT) y el balanceo de carga.
+	\item \textbf{Microservicios Centrales:} Servicios aislados para el manejo de la lógica educativa y los simuladores financieros.
+	\item \textbf{ML Engine:} Microservicio independiente en Python que ejecuta los algoritmos de recomendación.
+	\item \textbf{Message Broker:} Facilita la comunicación asíncrona entre servicios para procesos de fondo, como el envío de reportes financieros.
+\end{itemize}
+
+\paragraph*{Diagrama de Despliegue}
+El diagrama de despliegue detalla la disposición física de los componentes en la infraestructura de nube. Se utiliza una estrategia de \textbf{Contenerización} con Docker, orquestada para asegurar que el sistema sea agnóstico respecto al proveedor de nube (AWS, Azure o Google Cloud).
+
+
+
+\begin{itemize}
+	\item \textbf{Cliente:} Representa el nodo del dispositivo del usuario (móvil o escritorio) que se comunica vía HTTPS.
+	\item \textbf{Cloud Cluster:} Nodo principal donde residen los contenedores de los microservicios.
+	\item \textbf{Data Tier:} Instancias de base de datos administradas que garantizan la persistencia y copias de seguridad automáticas de la información financiera de los usuarios.
+	\item \textbf{CDN (Content Delivery Network):} Nodo encargado de distribuir el contenido multimedia de aprendizaje de manera eficiente en la región de Bogotá.
+\end{itemize}
+
+\begin{figure}[H]
+	\centering
+	% \includegraphics[width=0.8\textwidth]{Imagenes/DiagramaArquitectura.png}
+	\caption{Arquitectura Lógica de Microservicios de la Plataforma.}
+	\label{fig:arquitectura_logica}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	% \includegraphics[width=0.8\textwidth]{Imagenes/DiagramaDespliegue.png}
+	\caption{Diagrama de Despliegue de Infraestructura en la Nube.}
+	\label{fig:despliegue_fisico}
+\end{figure}
 
 \subsubsection*{Tecnologías}
 \addcontentsline{toc}{subsubsection}{Tecnologías}
@@ -28,7 +101,7 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
 		\textbf{Actor} & Usuario y asesor \\ \hline
-		\textbf{Descripción} & La plataforma debe permitir el registro de usuarios por medio de un formularios que capture el nombre, el correo electrónico y la contraseña. \\ \hline
+		\textbf{Descripción} & La plataforma debe permitir el registro de usuarios por medio de un formulario que capture el nombre, el correo electrónico y la contraseña. \\ \hline
 		\textbf{Criterio de aceptación} & Los usuarios sean capaces de registrarse correctamente y recibir un correo de confirmación al registrarse. \\ \hline
 	\end{tabular}
 \end{table}
