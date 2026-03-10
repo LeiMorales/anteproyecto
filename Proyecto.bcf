@@ -3225,6 +3225,15 @@
     <bcf:citekey order="148" intorder="1">DANE_Internet2023</bcf:citekey>
     <bcf:citekey order="149" intorder="1">DANE_Juventud2025</bcf:citekey>
     <bcf:citekey order="150" intorder="1">Finnovista2024</bcf:citekey>
+    <bcf:citekey order="151" intorder="1">IntuitChamp01</bcf:citekey>
+    <bcf:citekey order="152" intorder="1">BBVA04</bcf:citekey>
+    <bcf:citekey order="153" intorder="1">BBVAResearch01</bcf:citekey>
+    <bcf:citekey order="154" intorder="1">Ley1258</bcf:citekey>
+    <bcf:citekey order="155" intorder="1">Actualicese01</bcf:citekey>
+    <bcf:citekey order="156" intorder="1">Ley1258</bcf:citekey>
+    <bcf:citekey order="157" intorder="1">Resolucion70</bcf:citekey>
+    <bcf:citekey order="158" intorder="1">Ley1014</bcf:citekey>
+    <bcf:citekey order="159" intorder="1">Ley1360</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

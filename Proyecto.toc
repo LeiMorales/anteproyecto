@@ -82,7 +82,27 @@
 \contentsline {subsubsection}{Lugares candidatos}{64}{table.caption.29}%
 \contentsline {subsubsection}{Tipo de emprendimiento}{66}{table.caption.32}%
 \contentsline {subsubsection}{Equipo de trabajo}{67}{figure.caption.33}%
-\contentsline {section}{Producto Mínimo Viable}{67}{table.caption.34}%
-\contentsline {subsection}{Presupuesto}{68}{section*.35}%
-\contentsline {section}{Anexos}{69}{table.caption.36}%
-\contentsline {section}{Referencias}{71}{table.caption.38}%
+\contentsline {subsection}{Producto mínimo viable}{67}{table.caption.34}%
+\contentsline {subsection}{Arquitectura del Sistema}{68}{table.caption.34}%
+\contentsline {subsubsection}{Justificación Técnica de la Arquitectura}{69}{section*.35}%
+\contentsline {subsubsection}{Modelado de la Infraestructura y Componentes}{69}{Item.3}%
+\contentsline {paragraph}{Diagrama de Arquitectura Lógica}{70}{Item.3}%
+\contentsline {paragraph}{Diagrama de Despliegue}{70}{Item.3}%
+\contentsline {subsubsection}{Tecnologías}{71}{figure.caption.37}%
+\contentsline {subsubsection}{Requerimientos}{71}{figure.caption.37}%
+\contentsline {paragraph}{Requerimientos funcionales}{71}{figure.caption.37}%
+\contentsline {paragraph}{Requerimientos no funcionales}{76}{table.caption.46}%
+\contentsline {subsubsection}{Casos de uso}{81}{table.caption.56}%
+\contentsline {subsubsection}{Vistas principales del prototipo}{86}{figure.caption.65}%
+\contentsline {subsection}{Estudio legal}{87}{figure.caption.68}%
+\contentsline {subsubsection}{Tipo de sociedad}{88}{section*.69}%
+\contentsline {subsubsection}{Especificaciones generales}{88}{section*.69}%
+\contentsline {subsubsection}{Obligaciones legales}{89}{section*.69}%
+\contentsline {subsubsection}{Proceso para disolución de la empresa}{90}{Item.11}%
+\contentsline {subsubsection}{Propiedad intelectual}{91}{Item.21}%
+\contentsline {subsubsection}{Permisos y licencias requeridos}{92}{Item.21}%
+\contentsline {subsubsection}{Normas técnicas y de calidad}{93}{Item.21}%
+\contentsline {section}{Producto Mínimo Viable}{94}{Item.21}%
+\contentsline {subsection}{Presupuesto}{94}{section*.70}%
+\contentsline {section}{Anexos}{96}{table.caption.71}%
+\contentsline {section}{Referencias}{98}{table.caption.73}%

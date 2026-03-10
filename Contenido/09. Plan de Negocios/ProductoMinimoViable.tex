@@ -1,16 +1,13 @@
-\subsection*{Prototipo mínimo viable}
+\subsection*{Producto mínimo viable}
 \addcontentsline{toc}{subsection}{Producto mínimo viable}
 
-%Falta introduccion a la seccion, colocar la diferencia entre arquitectura del sistema y despliegue del sistema, la arquitectura es de microservicios pero el despliegue si es por capas
+El Producto Mínimo Viable (MVP) corresponde a una versión inicial del producto que contiene únicamente las funcionalidades esenciales necesarias para satisfacer a los primeros usuarios y validar las hipótesis fundamentales del modelo de negocio. Su objetivo principal es poner el producto en manos de los usuarios lo más pronto posible, permitiendo recopilar retroalimentación real que facilite iteraciones y mejoras posteriores \parencite{IntuitChamp01}.
 
+A partir de un punto de vista técnico, definir el Producto Mínimo Viable no es solamente seleccionar funcionalidades básicas del sistema sino también en establecer una arquitectura tecnológica el cual permita desarrollar, probar y evolucionar dichas funcionalidades de forma eficiente. En este contexto, el diseño del sistema se plantea desde la formulación de una arquitectura y el despliegue del sistema.
 
+Cabe aclarar que la arquitectura del sistema y su modelo de despliegue son dos cosas diferentes, por un lado la arquitectura define la estructura lógica y el comportamiento de los diferentes servicios entre sí, mientras que el despliegue es la vía por la cual estos componentes se organizan e implementan dentro de la infraestructura tecnológica \parencite{BBVA04}.
 
-
-%Para poder construir y desarrollar el prototipo mínimo viable, se usará un estilo de arquitectura por cadas, dentro de la cual, cada capa se encarga de tareas específicas, tales como veremos a continuación. Este enfoque nos permite además organizarnos mejor, ser modulares, mantener y escalar el sistema.
-
-%Se seleccionó la arquitectura por medio de capas debido a que es una de las arquitecturas mas comúnmente usadas y conocidas dentro del mundo del diseño de software, lo que proporcionará a nuestro equipo una mayor facilidad en el momento de guardarse en el desarrollo y documentar el sistema.
-
-%A continuación detallamos las tecnologías que usaremos y las razones por las cuales fueron seleccionadas para el proyecto:
+A continuación se describirán las tecnologías usadas y los motivos por los cuales fueron seleccionados para el progreso del proyecto:
 
 \subsection*{Arquitectura del Sistema}
 \addcontentsline{toc}{subsection}{Arquitectura del Sistema}
@@ -30,7 +27,7 @@ Los componentes principales de la arquitectura se dividen en las siguientes capa
 \end{itemize}
 
 \subsubsection*{Justificación Técnica de la Arquitectura}
-
+\addcontentsline{toc}{subsubsection}{Justificación Técnica de la Arquitectura}
 La elección de microservicios sobre una arquitectura monolítica responde a la naturaleza del emprendimiento bajo la metodología \textit{Lean Startup}. Esta arquitectura permite:
 \begin{enumerate}
 	\item \textbf{Escalabilidad Adaptativa:} Capacidad de aumentar los recursos del microservicio de IA durante picos de demanda sin necesidad de replicar todo el sistema.
@@ -39,13 +36,12 @@ La elección de microservicios sobre una arquitectura monolítica responde a la 
 \end{enumerate}
 
 \subsubsection*{Modelado de la Infraestructura y Componentes}
-
+\addcontentsline{toc}{subsubsection}{Modelado de la Infraestructura y Componentes}
 A continuación, se describen los diagramas técnicos que representan la organización lógica y la distribución física de la plataforma.
 
 \paragraph*{Diagrama de Arquitectura Lógica}
+\addcontentsline{toc}{paragraph}{Diagrama de Arquitectura Lógica}
 Este diagrama ilustra la interacción entre los distintos servicios a través de un \textit{API Gateway}, que actúa como punto de entrada único para las solicitudes de los usuarios.
-
-
 
 \begin{itemize}
 	\item \textbf{API Gateway:} Gestiona el enrutamiento, la autenticación mediante \textit{JSON Web Tokens} (JWT) y el balanceo de carga.
@@ -55,8 +51,8 @@ Este diagrama ilustra la interacción entre los distintos servicios a través de
 \end{itemize}
 
 \paragraph*{Diagrama de Despliegue}
+\addcontentsline{toc}{paragraph}{Diagrama de Despliegue}
 El diagrama de despliegue detalla la disposición física de los componentes en la infraestructura de nube. Se utiliza una estrategia de \textbf{Contenerización} con Docker, orquestada para asegurar que el sistema sea agnóstico respecto al proveedor de nube (AWS, Azure o Google Cloud).
-
 
 
 \begin{itemize}
@@ -91,6 +87,8 @@ A continuación definimos los requerimientos, los cuales definen la funcionalida
 \addcontentsline{toc}{paragraph}{Requerimientos funcionales}
 Los requerimientos funcionales describen las acciones específicas que debe realizar el sistema, estos requerimientos funcionales se describen a continuación:
 
+%Favor revissar estos requerimientos y eliminar
+
 \begin{table}[H]
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
@@ -100,7 +98,7 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Actor} & Usuario y asesor \\ \hline
+		\textbf{Actor} & Usuario y administrador \\ \hline
 		\textbf{Descripción} & La plataforma debe permitir el registro de usuarios por medio de un formulario que capture el nombre, el correo electrónico y la contraseña. \\ \hline
 		\textbf{Criterio de aceptación} & Los usuarios sean capaces de registrarse correctamente y recibir un correo de confirmación al registrarse. \\ \hline
 	\end{tabular}
@@ -115,7 +113,7 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Actor} & Usuario y asesor \\ \hline
+		\textbf{Actor} & Usuario y administrador \\ \hline
 		\textbf{Descripción} & El sistema debe permitir a los usuarios registrados iniciar sesión utilizando correo electrónico y contraseña \\ \hline
 		\textbf{Criterio de aceptación} & El usuario inicia sesión correctamente si todas las credenciales dadas son válidas. Si son incorrectas, mostrará un mensaje de error. \\ \hline
 	\end{tabular}
@@ -130,7 +128,7 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Media \\ \hline
-		\textbf{Actor} & Usuario y asesor \\ \hline
+		\textbf{Actor} & Usuario y administrador \\ \hline
 		\textbf{Descripción} & El usuario puede completar y editar su perfil personal y financiero básico (edad, ingresos, metas, etc.) para personalizar la experiencia. \\ \hline
 		\textbf{Criterio de aceptación} & El perfil editable se guarda correctamente; al actualizar datos, la aplicación muestra la información nueva en el perfil. \\ \hline
 	\end{tabular}
@@ -215,29 +213,14 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RF09 \\ \hline
-		\textbf{Nombre del requerimiento} & Chat en línea con asesores \\ \hline
+		\textbf{Nombre del requerimiento} & Implementación de Machine Learning para personalización de rutas \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
 		\textbf{Actor} & Usuario \\ \hline
-		\textbf{Descripción} & Canal de chat en tiempo real con asesores financieros para consultas personalizadas. \\ \hline
-		\textbf{Criterio de aceptación} & El usuario inicia un chat y envía mensajes; un asesor responde en un plazo razonable. Se verifica la comunicación básica (envío/recepción de mensajes). \\ \hline
-	\end{tabular}
-\end{table}
-
-\begin{table}[H]
-	\begin{tabular}{|a{5cm}|m{11cm}|}
-		\hline
-		\textbf{Código} & RF10 \\ \hline
-		\textbf{Nombre del requerimiento} & Gestión de clientes \\ \hline
-		\textbf{Fecha} & 15/10/2025 \\ \hline
-		\textbf{Tipo de requerimiento} & Funcional \\ \hline
-		\textbf{Origen de requerimiento} & Gestión de usuarios \\ \hline
-		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Actor} & Asesor \\ \hline
-		\textbf{Descripción} & El sistema permite al asesor la gestión de múltiples clientes y también la organización de los chats correspondientes. \\ \hline
-		\textbf{Criterio de aceptación} & Los múltiples clientes están organizados y categorizados correctamente, siendo accesibles desde el perfil del asesor. \\ \hline
+		\textbf{Descripción} & Formulación de rutas de aprendizaje de usuario personalizadas implementadas con machine learning. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario muestra una ruta de aprendizaje personalizada basada en su información disponible gracias al machine learning. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -282,7 +265,7 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Gestión de usuarios \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Descripción} & El sistema deberá permitir el acceso a diferentes funcionalidades dependiendo del rol que tenga el usuario (administrador, consultor, plan pagado o plan gratuito). Además cada rol debe tener permisos en específico que limiten o amplien el acceso a ciertas secciones o funciones dentro de la plataforma. \\ \hline
+		\textbf{Descripción} & El sistema deberá permitir el acceso a diferentes funcionalidades dependiendo del rol que tenga el usuario (administrador, plan pagado o plan gratuito). Además cada rol debe tener permisos en específico que limiten o amplien el acceso a ciertas secciones o funciones dentro de la plataforma. \\ \hline
 		\textbf{Criterio de aceptación} & Las personas que ingresen a nuestra plataforma tendrán su rol correctamente al iniciar sesión con sus cuentas. \\ \hline
 	\end{tabular}
 \end{table}
@@ -452,17 +435,10 @@ Los casos de uso describen detalladamente cómo un usuario interactúa con nuest
 	\label{fig:diagramacasousorf09}
 \end{figure}
 
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=12cm]{Imagenes/CasoUsoRF10.png}
-	\caption[{Diagrama de caso de uso RF10.}]{\centering Diagrama de caso de uso RF10. \textit{Fuente:} Autores.}
-	\label{fig:diagramacasousorf10}
-\end{figure}
-
 \subsubsection*{Vistas principales del prototipo}
 \addcontentsline{toc}{subsubsection}{Vistas principales del prototipo}
 
-Continuando con lo dicho anteriormente en las historias de usuario y los casos de uso, se adjunta algunas vistas base del prototipo. Las siguientes ilustraciones para diseñar el modelo fueron obtenidas del sitio.
+Concorde a lo previamente descrito dentro de las historias de usuario y los casos de uso, se adjunta algunas vistas base del prototipo. Cabe aclarar que las siguientes ilustraciones para diseñar el modelo fueron obtenidas del sitio en el que esta ubicado el producto mínimo viable.
 
 \begin{figure}[H]
 	\centering

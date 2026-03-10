@@ -58,6 +58,36 @@
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5450829/pdf/nihms857731.pdf
       \endverb
     \endentry
+    \entry{Actualicese01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f0061781d6d5cbbc090b1f1d70bf0906}{%
+           family={{Actualicese}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{fullhash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{fullhashraw}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{bibnamehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authorbibnamehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authornamehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authorfullhash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authorfullhashraw}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Por qué más de la mitad de las sociedades nacionales operan bajo el modelo SAS?}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://actualicese.com/archivo/por-que-mas-de-la-mitad-de-las-sociedades-nacionales-operan-bajo-el-modelo-sas/
+      \endverb
+      \verb{url}
+      \verb https://actualicese.com/archivo/por-que-mas-de-la-mitad-de-las-sociedades-nacionales-operan-bajo-el-modelo-sas/
+      \endverb
+    \endentry
     \entry{Recordar01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0fc4edd0cecaced046bdc21e3beda6f2}{%
@@ -362,6 +392,7 @@
       \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -374,6 +405,38 @@
       \endverb
       \verb{url}
       \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
+      \endverb
+    \endentry
+    \entry{BBVA04}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arquitectura de software o sistemas: qué es y ejemplos}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/innovacion/arquitectura-de-software-o-sistemas-que-es-y-ejemplos/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/innovacion/arquitectura-de-software-o-sistemas-que-es-y-ejemplos/
       \endverb
     \endentry
     \entry{Bancolombia01}{online}{}{}
@@ -741,6 +804,36 @@
       \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
       \endverb
     \endentry
+    \entry{Resolucion70}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f21e74f208996009fd06eee979ae081}{%
+           family={{Dirección de Impuestos y Aduanas Nacionales}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{fullhash}{2f21e74f208996009fd06eee979ae081}
+      \strng{fullhashraw}{2f21e74f208996009fd06eee979ae081}
+      \strng{bibnamehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authorbibnamehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authornamehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authorfullhash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authorfullhashraw}{2f21e74f208996009fd06eee979ae081}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Resolución 70 de 2021}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_dian_0070_2021.htm/
+      \endverb
+      \verb{url}
+      \verb https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_dian_0070_2021.htm/
+      \endverb
+    \endentry
     \entry{RoboAdvisors01}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=50d3789af61082d87bba363f50537824}{%
@@ -787,7 +880,7 @@
       \verb https://www.frontiersin.org/journals/behavioral-economics/articles/10.3389/frbhe.2024.1489159
       \endverb
     \endentry
-    \entry{Ley1735}{online}{}{}
+    \entry{Ley1014}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
            family={{F. Pública}},
@@ -805,6 +898,74 @@
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
       \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1014 de 2006}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18924
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18924
+      \endverb
+    \endentry
+    \entry{Ley1360}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1360 de 2009}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38509
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38509
+      \endverb
+    \endentry
+    \entry{Ley1735}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{3}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -838,7 +999,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{2}
+      \field{extraname}{4}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -1212,6 +1373,36 @@
       \endverb
       \verb{url}
       \verb https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/financial-education/Flyer%20PISA%20(4).pdf
+      \endverb
+    \endentry
+    \entry{IntuitChamp01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b485d279d1a1202202b42be9ad8b1a4f}{%
+           family={{Intuit Mailchamp}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{fullhash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{fullhashraw}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{bibnamehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authorbibnamehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authornamehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authorfullhash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authorfullhashraw}{b485d279d1a1202202b42be9ad8b1a4f}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MVP: Todo lo que necesitas saber del Producto Mínimo Viable}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://mailchimp.com/es/resources/minimum-viable-product/
+      \endverb
+      \verb{url}
+      \verb https://mailchimp.com/es/resources/minimum-viable-product/
       \endverb
     \endentry
     \entry{Investopedia01}{online}{}{}
@@ -2103,6 +2294,39 @@
       \endverb
       \verb{url}
       \verb https://economipedia.com/definiciones/bienestar-economico.html
+      \endverb
+    \endentry
+    \entry{Ley1258}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25e7cb761e0c717bc7cfec70528db339}{%
+           family={{Secretaria del Senado}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{fullhash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{fullhashraw}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{bibnamehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authorbibnamehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authornamehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authorfullhash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authorfullhashraw}{25e7cb761e0c717bc7cfec70528db339}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1258 de 2008}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html
+      \endverb
+      \verb{url}
+      \verb http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html
       \endverb
     \endentry
     \entry{Superintendencia01}{report}{}{}
@@ -2302,6 +2526,36 @@
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5450829/pdf/nihms857731.pdf
       \endverb
     \endentry
+    \entry{Actualicese01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f0061781d6d5cbbc090b1f1d70bf0906}{%
+           family={{Actualicese}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{fullhash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{fullhashraw}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{bibnamehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authorbibnamehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authornamehash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authorfullhash}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \strng{authorfullhashraw}{f0061781d6d5cbbc090b1f1d70bf0906}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Por qué más de la mitad de las sociedades nacionales operan bajo el modelo SAS?}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://actualicese.com/archivo/por-que-mas-de-la-mitad-de-las-sociedades-nacionales-operan-bajo-el-modelo-sas/
+      \endverb
+      \verb{url}
+      \verb https://actualicese.com/archivo/por-que-mas-de-la-mitad-de-las-sociedades-nacionales-operan-bajo-el-modelo-sas/
+      \endverb
+    \endentry
     \entry{Recordar01}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0fc4edd0cecaced046bdc21e3beda6f2}{%
@@ -2606,6 +2860,7 @@
       \field{extraname}{3}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -2618,6 +2873,38 @@
       \endverb
       \verb{url}
       \verb https://www.bbva.com/es/salud-financiera/que-son-las-finanzas-personales-y-corporativas-similitudes-y-diferencias/
+      \endverb
+    \endentry
+    \entry{BBVA04}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arquitectura de software o sistemas: qué es y ejemplos}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/innovacion/arquitectura-de-software-o-sistemas-que-es-y-ejemplos/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/innovacion/arquitectura-de-software-o-sistemas-que-es-y-ejemplos/
       \endverb
     \endentry
     \entry{Bancolombia01}{online}{}{}
@@ -2985,6 +3272,36 @@
       \verb https://www.dane.gov.co/files/operaciones/GEIH/bol-GEIHEISS-sep-nov2025.pdf
       \endverb
     \endentry
+    \entry{Resolucion70}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f21e74f208996009fd06eee979ae081}{%
+           family={{Dirección de Impuestos y Aduanas Nacionales}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{fullhash}{2f21e74f208996009fd06eee979ae081}
+      \strng{fullhashraw}{2f21e74f208996009fd06eee979ae081}
+      \strng{bibnamehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authorbibnamehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authornamehash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authorfullhash}{2f21e74f208996009fd06eee979ae081}
+      \strng{authorfullhashraw}{2f21e74f208996009fd06eee979ae081}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Resolución 70 de 2021}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_dian_0070_2021.htm/
+      \endverb
+      \verb{url}
+      \verb https://normograma.dian.gov.co/dian/compilacion/docs/resolucion_dian_0070_2021.htm/
+      \endverb
+    \endentry
     \entry{RoboAdvisors01}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=50d3789af61082d87bba363f50537824}{%
@@ -3031,7 +3348,7 @@
       \verb https://www.frontiersin.org/journals/behavioral-economics/articles/10.3389/frbhe.2024.1489159
       \endverb
     \endentry
-    \entry{Ley1735}{online}{}{}
+    \entry{Ley1014}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
            family={{F. Pública}},
@@ -3049,6 +3366,74 @@
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
       \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1014 de 2006}
+      \field{year}{2006}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18924
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=18924
+      \endverb
+    \endentry
+    \entry{Ley1360}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1360 de 2009}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38509
+      \endverb
+      \verb{url}
+      \verb https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38509
+      \endverb
+    \endentry
+    \entry{Ley1735}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09ba68f033aab3889ee603a8cf0f52f6}{%
+           family={{F. Pública}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{fullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{bibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorbibnamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
+      \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
+      \field{extraname}{3}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -3082,7 +3467,7 @@
       \strng{authornamehash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhash}{09ba68f033aab3889ee603a8cf0f52f6}
       \strng{authorfullhashraw}{09ba68f033aab3889ee603a8cf0f52f6}
-      \field{extraname}{2}
+      \field{extraname}{4}
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{extradatescope}{labelyear}
@@ -3456,6 +3841,36 @@
       \endverb
       \verb{url}
       \verb https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/financial-education/Flyer%20PISA%20(4).pdf
+      \endverb
+    \endentry
+    \entry{IntuitChamp01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b485d279d1a1202202b42be9ad8b1a4f}{%
+           family={{Intuit Mailchamp}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{fullhash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{fullhashraw}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{bibnamehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authorbibnamehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authornamehash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authorfullhash}{b485d279d1a1202202b42be9ad8b1a4f}
+      \strng{authorfullhashraw}{b485d279d1a1202202b42be9ad8b1a4f}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MVP: Todo lo que necesitas saber del Producto Mínimo Viable}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://mailchimp.com/es/resources/minimum-viable-product/
+      \endverb
+      \verb{url}
+      \verb https://mailchimp.com/es/resources/minimum-viable-product/
       \endverb
     \endentry
     \entry{Investopedia01}{online}{}{}
@@ -4347,6 +4762,39 @@
       \endverb
       \verb{url}
       \verb https://economipedia.com/definiciones/bienestar-economico.html
+      \endverb
+    \endentry
+    \entry{Ley1258}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25e7cb761e0c717bc7cfec70528db339}{%
+           family={{Secretaria del Senado}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Gobierno de Colombia}%
+      }
+      \strng{namehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{fullhash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{fullhashraw}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{bibnamehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authorbibnamehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authornamehash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authorfullhash}{25e7cb761e0c717bc7cfec70528db339}
+      \strng{authorfullhashraw}{25e7cb761e0c717bc7cfec70528db339}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ley 1258 de 2008}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html
+      \endverb
+      \verb{url}
+      \verb http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html
       \endverb
     \endentry
     \entry{Superintendencia01}{report}{}{}
