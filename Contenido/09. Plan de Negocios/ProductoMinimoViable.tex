@@ -79,28 +79,50 @@ El diagrama de despliegue detalla la disposición física de los componentes en 
 \subsubsection*{Tecnologías}
 \addcontentsline{toc}{subsubsection}{Tecnologías}
 
+Para garantizar la viabilidad técnica del Producto Mínimo Viable y soportar la arquitectura de microservicios propuesta, se han seleccionado tecnologías que priorizan el rendimiento, la escalabilidad y un entorno de desarrollo moderno.
+
+\begin{itemize}
+	\item \textbf{Frontend (Framework):} Se utilizará \textbf{Angular}. Este framework basado en TypeScript proporciona una estructura modular mediante componentes y servicios, facilitando la creación de una interfaz altamente interactiva. Al ser una aplicación de una sola página (SPA), permite transiciones fluidas en los simuladores financieros y una experiencia de usuario (UX) coherente con los estándares actuales de las aplicaciones bancarias.
+	
+	\item \textbf{Backend (Entorno de ejecución):} Los microservicios de lógica de negocio y el API Gateway se desarrollarán sobre \textbf{Node.js}. Su arquitectura basada en eventos y entrada/salida no bloqueante asegura que la plataforma pueda manejar múltiples peticiones simultáneas, como el procesamiento de datos de entrenamiento para la IA y las consultas de los usuarios a los simuladores.
+	
+	\item \textbf{Inteligencia Artificial y ML:} Para el procesamiento de datos adaptativo se empleará \textbf{Python}, utilizando librerías como Scikit-learn o TensorFlow. Los modelos de recomendación se expondrán como servicios independientes que interactúan con el backend de Node.js de manera asíncrona.
+	
+	\item \textbf{Bases de Datos:} 
+	\begin{itemize}
+		\item \textbf{PostgreSQL:} Motor de base de datos relacional para la gestión de usuarios, seguridad y transacciones, asegurando la integridad referencial de la información financiera.
+		\item \textbf{MongoDB / NoSQL:} Para el almacenamiento de contenido educativo dinámico y el registro de eventos de aprendizaje, cuya estructura requiere flexibilidad frente a cambios constantes.
+	\end{itemize}
+	
+	\item \textbf{Infraestructura y Contenerización:} 
+	\begin{itemize}
+		\item \textbf{Docker:} Se emplearán contenedores para aislar cada servicio (Angular, Node.js y Python), garantizando que el sistema sea agnóstico respecto al sistema operativo de despliegue y facilitando la integración continua.
+	\end{itemize}
+\end{itemize}
+
+\subsubsection*{Análisis de Integración Tecnológica}
+La integración de Node.js y Angular asegura un ecosistema de desarrollo homogéneo bajo JavaScript/TypeScript. Esto reduce la curva de aprendizaje y mejora la velocidad de implementación del PMV, permitiendo que el equipo de desarrollo se enfoque en la optimización de los algoritmos de personalización financiera y en la validación rápida de hipótesis bajo la metodología \textit{Lean Startup}.
+
 \subsubsection*{Requerimientos}
 \addcontentsline{toc}{subsubsection}{Requerimientos}
-A continuación definimos los requerimientos, los cuales definen la funcionalidad y el propósito de una pieza particular de software o aplicación.
+A continuación, se especifican los requerimientos del sistema, los cuales establecen las capacidades funcionales y las restricciones de calidad que debe cumplir la plataforma para satisfacer los objetivos del proyecto.
 
 \paragraph*{Requerimientos funcionales}
 \addcontentsline{toc}{paragraph}{Requerimientos funcionales}
 Los requerimientos funcionales describen las acciones específicas que debe realizar el sistema, estos requerimientos funcionales se describen a continuación:
 
-%Favor revissar estos requerimientos y eliminar
-
 \begin{table}[H]
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RF01 \\ \hline
-		\textbf{Nombre del requerimiento} & Registro de usuarios \\ \hline
+		\textbf{Nombre del requerimiento} & Registro de cuenta de usuarios \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
 		\textbf{Actor} & Usuario y administrador \\ \hline
-		\textbf{Descripción} & La plataforma debe permitir el registro de usuarios por medio de un formulario que capture el nombre, el correo electrónico y la contraseña. \\ \hline
-		\textbf{Criterio de aceptación} & Los usuarios sean capaces de registrarse correctamente y recibir un correo de confirmación al registrarse. \\ \hline
+		\textbf{Descripción} & El sistema debe permitir a los nuevos usuarios crear una cuenta mediante un formulario que capture nombre completo, correo electrónico y contraseña. El sistema debe validar que el correo no esté registrado previamente y cifrar la contraseña antes de almacenarla.\\ \hline
+		\textbf{Criterio de aceptación} & Se crea un nuevo registro en la base de datos PostgreSQL y el sistema redirige al usuario al flujo de bienvenida o verificación de correo.. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -108,14 +130,14 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RF02 \\ \hline
-		\textbf{Nombre del requerimiento} & Iniciar sesión \\ \hline
+		\textbf{Nombre del requerimiento} & Autenticación y Control de Acceso \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
 		\textbf{Actor} & Usuario y administrador \\ \hline
-		\textbf{Descripción} & El sistema debe permitir a los usuarios registrados iniciar sesión utilizando correo electrónico y contraseña \\ \hline
-		\textbf{Criterio de aceptación} & El usuario inicia sesión correctamente si todas las credenciales dadas son válidas. Si son incorrectas, mostrará un mensaje de error. \\ \hline
+		\textbf{Descripción} & El sistema debe validar las credenciales del usuario (email y contraseña) contra los registros existentes. Tras una validación exitosa, el backend debe generar un token de acceso (JWT) que permita al usuario consumir los servicios protegidos de la arquitectura de microservicios. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario accede a su sesión privada; en caso de credenciales inválidas, el sistema debe denegar el acceso y mostrar un mensaje de error genérico por seguridad. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -123,14 +145,14 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RF03 \\ \hline
-		\textbf{Nombre del requerimiento} & Gestión de perfil de usuario \\ \hline
+		\textbf{Nombre del requerimiento} & Gestión y Caracterización de Perfil de Usuario \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Media \\ \hline
-		\textbf{Actor} & Usuario y administrador \\ \hline
-		\textbf{Descripción} & El usuario puede completar y editar su perfil personal y financiero básico (edad, ingresos, metas, etc.) para personalizar la experiencia. \\ \hline
-		\textbf{Criterio de aceptación} & El perfil editable se guarda correctamente; al actualizar datos, la aplicación muestra la información nueva en el perfil. \\ \hline
+		\textbf{Actor} & Usuario y sistema \\ \hline
+		\textbf{Descripción} & El sistema debe permitir al usuario completar y actualizar su información sociodemográfica y financiera básica (ingresos, metas, tipo de ocupación). Estos datos deben persistir para alimentar de forma dinámica el motor de recomendaciones. \\ \hline
+		\textbf{Criterio de aceptación} & El perfil se guarda correctamente en PostgreSQL; los cambios se reflejan inmediatamente en la interfaz y quedan disponibles para el microservicio de Machine Learning. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -138,36 +160,22 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RF04 \\ \hline
-		\textbf{Nombre del requerimiento} & Simulador de escenarios ficticios \\ \hline
+		\textbf{Nombre del requerimiento} & Motor de Simulaciones Financieras Adaptativas \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
 		\textbf{Actor} & Usuario \\ \hline
-		\textbf{Descripción} & Ofrecer simuladores interactivos de ahorro, inversión y presupuesto adaptados al perfil del usuario. \\ \hline
-		\textbf{Criterio de aceptación} & Al ingresar parámetros (monto, tasa, plazo), el simulador genera escenarios comparativos; se presenta resultados en gráficos o tabla coherentes con datos de entrada. \\ \hline
+		\textbf{Descripción} & El sistema debe proveer herramientas de cálculo para ahorro, crédito e inversión. Debe procesar variables de entrada (capital, tiempo, tasa) y devolver proyecciones basadas en modelos financieros estandarizados. \\ \hline
+		\textbf{Criterio de aceptación} & El motor de cálculo devuelve resultados con precisión decimal; los datos se visualizan mediante componentes gráficos interactivos en Angular. \\ \hline
 	\end{tabular}
 \end{table}
+
 
 \begin{table}[H]
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RF05 \\ \hline
-		\textbf{Nombre del requerimiento} & Cálculo financiero personalizado \\ \hline
-		\textbf{Fecha} & 15/10/2025 \\ \hline
-		\textbf{Tipo de requerimiento} & Funcional \\ \hline
-		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
-		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Actor} & Usuario \\ \hline
-		\textbf{Descripción} & Incluir calculadoras para préstamos, ahorro e inversión que realicen proyecciones financieras. \\ \hline
-		\textbf{Criterio de aceptación} & El usuario ingresa valores (capital, tasa, tiempo) y la calculadora muestra resultados correctos (p.ej. cuota mensual, interés acumulado) según fórmulas estándar. \\ \hline
-	\end{tabular}
-\end{table}
-
-\begin{table}[H]
-	\begin{tabular}{|a{5cm}|m{11cm}|}
-		\hline
-		\textbf{Código} & RF06 \\ \hline
 		\textbf{Nombre del requerimiento} & Gestión de presupuesto y ahorro \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
@@ -182,22 +190,22 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 \begin{table}[H]
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
-		\textbf{Código} & RF07 \\ \hline
-		\textbf{Nombre del requerimiento} & Sistema de alertas y recordatorios \\ \hline
+		\textbf{Código} & RF06 \\ \hline
+		\textbf{Nombre del requerimiento} & Servicio Automatizado de Notificaciones \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
 		\textbf{Prioridad} & Media \\ \hline
-		\textbf{Actor} & Usuario \\ \hline
-		\textbf{Descripción} & Enviar notificaciones inteligentes sobre fechas de pago, vencimientos o metas de ahorro. \\ \hline
-		\textbf{Criterio de aceptación} & Se programa una alerta antes de cada fecha límite configurada; en pruebas la app envía la notificación en el tiempo esperado. \\ \hline
+		\textbf{Actor} & Usuario y sistema \\ \hline
+		\textbf{Descripción} & El sistema debe programar y enviar alertas automáticas basadas en fechas de vencimiento de obligaciones financieras o proximidad al cumplimiento de metas de ahorro definidas por el usuario. \\ \hline
+		\textbf{Criterio de aceptación} & El microservicio de notificaciones dispara la alerta en la fecha y hora configurada; el usuario recibe la notificación de manera asíncrona en la plataforma. \\ \hline
 	\end{tabular}
 \end{table}
 
 \begin{table}[H]
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
-		\textbf{Código} & RF08 \\ \hline
+		\textbf{Código} & RF07 \\ \hline
 		\textbf{Nombre del requerimiento} & Adquisición de plan de suscripción \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
@@ -212,17 +220,64 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 \begin{table}[H]
 	\begin{tabular}{|a{5cm}|m{11cm}|}
 		\hline
+		\textbf{Código} & RF08 \\ \hline
+		\textbf{Nombre del requerimiento} & Motor de Personalización (Machine Learning) \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario y sistema\\ \hline
+		\textbf{Descripción} & Implementación de un microservicio en Python que analice el perfil del usuario y sugiera una ruta de aprendizaje personalizada (módulos educativos y metas de ahorro). \\ \hline
+		\textbf{Criterio de aceptación} & El sistema debe generar al menos tres recomendaciones de contenido basadas en los datos de entrada del usuario con una latencia de respuesta inferior a 2 segundos. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
 		\textbf{Código} & RF09 \\ \hline
-		\textbf{Nombre del requerimiento} & Implementación de Machine Learning para personalización de rutas \\ \hline
+		\textbf{Nombre del requerimiento} & Visualización y Consumo de Módulos Educativos \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & Funcional \\ \hline
 		\textbf{Origen de requerimiento} & Plan de negocio \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
 		\textbf{Actor} & Usuario \\ \hline
-		\textbf{Descripción} & Formulación de rutas de aprendizaje de usuario personalizadas implementadas con machine learning. \\ \hline
-		\textbf{Criterio de aceptación} & El usuario muestra una ruta de aprendizaje personalizada basada en su información disponible gracias al machine learning. \\ \hline
+		\textbf{Descripción} & El sistema debe presentar los módulos de aprendizaje financiero (texto, video, cuestionarios) organizados por categorías o según la ruta personalizada generada por la IA. \\ \hline
+		\textbf{Criterio de aceptación} & El usuario puede acceder al contenido, marcar módulos como completados y visualizar su progreso en la barra de avance de la plataforma. \\ \hline
 	\end{tabular}
 \end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF10 \\ \hline
+		\textbf{Nombre del requerimiento} & Panel de Administración de Contenidos y Usuarios \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
+		\textbf{Prioridad} & Media \\ \hline
+		\textbf{Actor} & Administrador \\ \hline
+		\textbf{Descripción} & El sistema debe proveer una interfaz para que el administrador gestione usuarios, actualice las tasas de interés de referencia para los simuladores y cargue nuevo material educativo. \\ \hline
+		\textbf{Criterio de aceptación} & Las actualizaciones realizadas en el panel se reflejan en la base de datos y afectan globalmente el comportamiento de los simuladores y módulos educativos. \\ \hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[H]
+	\begin{tabular}{|a{5cm}|m{11cm}|}
+		\hline
+		\textbf{Código} & RF11 \\ \hline
+		\textbf{Nombre del requerimiento} & Finalización de Sesión (Logout) \\ \hline
+		\textbf{Fecha} & 15/10/2025 \\ \hline
+		\textbf{Tipo de requerimiento} & Funcional \\ \hline
+		\textbf{Origen de requerimiento} & Análisis del sistema \\ \hline
+		\textbf{Prioridad} & Alta \\ \hline
+		\textbf{Actor} & Usuario y Administrador \\ \hline
+		\textbf{Descripción} & El sistema debe permitir el cierre de sesión voluntario, invalidando el token JWT en el cliente y redirigiendo al usuario a la interfaz pública de la plataforma. \\ \hline
+		\textbf{Criterio de aceptación} & El token se elimina del almacenamiento local; cualquier intento posterior de acceder a rutas protegidas (/dashboard, /perfil) es rechazado por el sistema. \\ \hline
+	\end{tabular}
+\end{table}
+
+%Pendiente por revisar requerimientos no funcionales y casos de uso%
 
 \paragraph*{Requerimientos no funcionales}
 \addcontentsline{toc}{paragraph}{Requerimientos no funcionales}
