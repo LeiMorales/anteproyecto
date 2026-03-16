@@ -125,7 +125,7 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 		\textbf{Prioridad} & Alta \\ \hline
 		\textbf{Actor} & Usuario y administrador \\ \hline
 		\textbf{Descripción} & El sistema debe permitir a los nuevos usuarios crear una cuenta mediante un formulario que capture nombre completo, correo electrónico y contraseña. El sistema debe validar que el correo no esté registrado previamente y cifrar la contraseña antes de almacenarla.\\ \hline
-		\textbf{Criterio de aceptación} & Se crea un nuevo registro en la base de datos PostgreSQL y el sistema redirige al usuario al flujo de bienvenida o verificación de correo.. \\ \hline
+		\textbf{Criterio de aceptación} & Se crea un nuevo registro en la base de datos PostgreSQL y el sistema redirige al usuario al flujo de bienvenida o verificación de correo. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -280,7 +280,7 @@ Los requerimientos funcionales describen las acciones específicas que debe real
 	\end{tabular}
 \end{table}
 
-%Pendiente por revisar requerimientos no funcionales y casos de uso%
+
 
 \paragraph*{Requerimientos no funcionales}
 \addcontentsline{toc}{paragraph}{Requerimientos no funcionales}
@@ -290,13 +290,13 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\begin{tabular}{|s{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RNF01 \\ \hline
-		\textbf{Nombre del requerimiento} & Compatibilidad web \\ \hline
+		\textbf{Nombre del requerimiento} & Compatibilidad multiplataforma \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Tendencias tecnológicas \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Descripción} & Aplicación nativa o multiplataforma para dispositivos de computadora, optimizada para distintos tamaños de pantalla. \\ \hline
-		\textbf{Criterio de aceptación} & Se ejecuta en buscadores web; la interfaz se adapta correctamente sin elementos desalineados. \\ \hline
+		\textbf{Descripción} & La plataforma debe ser accesible mediante navegadores web modernos (Chrome, Firefox, Safari, Edge) y presentar un diseño responsivo que se adapte a dispositivos móviles y de escritorio. \\ \hline
+		\textbf{Criterio de aceptación} & Visualización correcta en resoluciones desde 360px hasta 1920px de ancho; cumplimiento de estándares HTML5 y CSS3 comprobado mediante validadores. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -304,13 +304,13 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\begin{tabular}{|s{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RNF02 \\ \hline
-		\textbf{Nombre del requerimiento} & Interfaz intuitiva y amigable \\ \hline
+		\textbf{Nombre del requerimiento} & Usabilidad y Experiencia de Usuario (UX) \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Estudio de usabilidad \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Descripción} & Aplicación web optimizada para distintos tamaños de pantalla. \\ \hline
-		\textbf{Criterio de aceptación} & En pruebas de usuario, al menos el 80\% completa tareas básicas (registro, simulación) sin asistencia. La interfaz es valorada como fácil de usar en encuestas. \\ \hline
+		\textbf{Descripción} & La interfaz debe minimizar la carga cognitiva del usuario, permitiendo que las funciones de simulación y registro sean intuitivas sin necesidad de manuales externos. \\ \hline
+		\textbf{Criterio de aceptación} & En pruebas de usuario, el 85\% de los participantes debe completar el flujo de simulación en menos de 3 minutos sin asistencia técnica \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -318,13 +318,13 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\begin{tabular}{|s{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RNF03 \\ \hline
-		\textbf{Nombre del requerimiento} & Acceso a funcionalidades por rol \\ \hline
+		\textbf{Nombre del requerimiento} & Control de Acceso Basado en Roles (RBAC) \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Gestión de usuarios \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Descripción} & El sistema deberá permitir el acceso a diferentes funcionalidades dependiendo del rol que tenga el usuario (administrador, plan pagado o plan gratuito). Además cada rol debe tener permisos en específico que limiten o amplien el acceso a ciertas secciones o funciones dentro de la plataforma. \\ \hline
-		\textbf{Criterio de aceptación} & Las personas que ingresen a nuestra plataforma tendrán su rol correctamente al iniciar sesión con sus cuentas. \\ \hline
+		\textbf{Descripción} & El sistema debe implementar una matriz de permisos que restrinja o habilite funciones según el rol asignado (Administrador, Premium, Gratuito) mediante tokens de sesión. \\ \hline
+		\textbf{Criterio de aceptación} & El API Gateway rechaza peticiones de usuarios sin el rol adecuado (Error 403 Forbidden); los menús de la interfaz se ocultan dinámicamente según el perfil. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -332,13 +332,13 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\begin{tabular}{|s{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RNF04 \\ \hline
-		\textbf{Nombre del requerimiento} & Seguridad de la información \\ \hline
+		\textbf{Nombre del requerimiento} & Seguridad de la información y cifrado \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Normativa legal de seguridad \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Descripción} & Protección de datos personales y financieros: cifrado en tránsito (HTTPS/TLS) y reposo; autenticación segura (idealmente 2FA opcional). \\ \hline
-		\textbf{Criterio de aceptación} & El sistema utiliza protocolos de cifrado estándar (TLS 1.2+); las contraseñas están encriptadas. En pruebas de penetración, no se obtienen datos sensibles. \\ \hline
+		\textbf{Descripción} & Cifrado de datos en tránsito utilizando TLS 1.3 y cifrado de datos sensibles en reposo (AES-256). Las contraseñas deben procesarse con algoritmos de hashing robustos. \\ \hline
+		\textbf{Criterio de aceptación} & Certificado SSL válido con calificación A en SSL Labs; verificación de que no existen textos planos de contraseñas en la base de datos PostgreSQL. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -346,13 +346,13 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\begin{tabular}{|s{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RNF05 \\ \hline
-		\textbf{Nombre del requerimiento} & Privacidad del usuario \\ \hline
+		\textbf{Nombre del requerimiento} & Privacidad y Tratamiento de Datos Personales \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
-		\textbf{Origen de requerimiento} & Legislación de protección de datos \\ \hline
+		\textbf{Origen de requerimiento} &Ley 1581 de 2012 (Habeas Data) \\ \hline
 		\textbf{Prioridad} & Alta \\ \hline
-		\textbf{Descripción} & Cumplimiento de leyes colombianas de datos (ej. Ley 1581/2012): obtener consentimiento informado antes de recolectar datos. \\ \hline
-		\textbf{Criterio de aceptación} & El usuario acepta política de privacidad al registrarse; la app no comparte datos sin permiso. Se verifica que exista consentimiento explícito. \\ \hline
+		\textbf{Descripción} & El sistema debe garantizar que el almacenamiento y procesamiento de datos financieros cumpla con la normativa colombiana de protección de datos personales. \\ \hline
+		\textbf{Criterio de aceptación} & Firma digital de términos y condiciones en el registro; logs de auditoría que registren el acceso a datos sensibles. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -360,13 +360,13 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\begin{tabular}{|s{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RNF06 \\ \hline
-		\textbf{Nombre del requerimiento} & Rendimiento \\ \hline
+		\textbf{Nombre del requerimiento} & Rendimiento y tiempos e respuesta \\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Experiencia de usuario \\ \hline
 		\textbf{Prioridad} & Media \\ \hline
-		\textbf{Descripción} & Operaciones clave (simulaciones, navegación) deben responder rápido (p.ej. <5 segundos), incluso con datos moderados. \\ \hline
-		\textbf{Criterio de aceptación} & Mediciones de rendimiento indican tiempo de respuesta promedio < 5s bajo carga normal. El inicio de la app carga en menos de 3,5s en dispositivo estándar. \\ \hline
+		\textbf{Descripción} & Las consultas al motor de simulaciones y la carga de datos del dashboard deben optimizarse para garantizar una respuesta fluida. \\ \hline
+		\textbf{Criterio de aceptación} & Tiempo de respuesta del servidor (TTFB) menor a 500ms; carga total de la página principal en menos de 2.5 segundos bajo condiciones de red estándar. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -379,8 +379,8 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Acuerdo de Nivel de Servicio (SLA) \\ \hline
 		\textbf{Prioridad} & Media \\ \hline
-		\textbf{Descripción} & Sistema con alta disponibilidad (por ejemplo, 95\% de uptime mensual) y respaldos periódicos automáticos de los datos, incluidos perfiles y planes adquiridos. \\ \hline
-		\textbf{Criterio de aceptación} & Registros de sistema muestran al menos un 95\% de uptime. Al simular una interrupción, el servicio se restablece automáticamente o en menos de 1 hora según lo establecido, además de tener una copia de seguridad con los datos almacenados. \\ \hline
+		\textbf{Descripción} & El sistema debe mantener una disponibilidad del 99.5\% mensual. Se deben realizar respaldos automáticos diarios de la base de datos con una política de retención de 30 días. \\ \hline
+		\textbf{Criterio de aceptación} & Reportes de monitoreo mensual sin caídas superiores a 3.6 horas; ejecución verificada de scripts de backup en contenedores Docker. \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -402,13 +402,13 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 	\begin{tabular}{|s{5cm}|m{11cm}|}
 		\hline
 		\textbf{Código} & RNF09 \\ \hline
-		\textbf{Nombre del requerimiento} & Mantenibilidad \\ \hline
+		\textbf{Nombre del requerimiento} & Mantenibilidad y documentación técnica\\ \hline
 		\textbf{Fecha} & 15/10/2025 \\ \hline
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Buenas prácticas de desarrollo \\ \hline
 		\textbf{Prioridad} & Media \\ \hline
-		\textbf{Descripción} & Código fuente modular y documentado (comentarios, manual de usuario) para facilitar futuras actualizaciones o mantenimiento. \\ \hline
-		\textbf{Criterio de aceptación} & Existe documentación técnica y de usuario; otro desarrollador puede entender la arquitectura principal y los flujos de datos consultando los documentos. \\ \hline
+		\textbf{Descripción} & El código fuente debe seguir patrones de diseño modulares (Clean Architecture) y contar con documentación técnica exhaustiva para facilitar el mantenimiento preventivo y correctivo.. \\ \hline
+		\textbf{Criterio de aceptación} & Repositorio con README detallado, comentarios en funciones críticas y cobertura de pruebas unitarias superior al 70\% \\ \hline
 	\end{tabular}
 \end{table}
 
@@ -421,8 +421,8 @@ Los requerimientos no funcionales describen las cualidades y estándares que deb
 		\textbf{Tipo de requerimiento} & No funcional \\ \hline
 		\textbf{Origen de requerimiento} & Plan de Negocio e infraestructura \\ \hline
 		\textbf{Prioridad} & Baja \\ \hline
-		\textbf{Descripción} & Arquitectura preparada para crecer: puede escalar agregando recursos (servidores, base de datos) conforme aumentan usuarios. \\ \hline
-		\textbf{Criterio de aceptación} & El diseño contempla el uso de infraestructura en nube escalable. En prueba de carga, el servicio soporta X usuarios concurrentes sin degradarse significativamente. \\ \hline
+		\textbf{Descripción} & La infraestructura basada en microservicios y contenedores debe permitir el despliegue de múltiples instancias para absorber picos de tráfico sin degradación del servicio. \\ \hline
+		\textbf{Criterio de aceptación} & El sistema soporta un incremento de hasta 500 usuarios concurrentes mediante el escalado de pods en el clúster sin aumentar los tiempos de respuesta por encima de 1s. \\ \hline
 	\end{tabular}
 \end{table}
 
