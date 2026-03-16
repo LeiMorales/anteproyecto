@@ -375,7 +375,7 @@
       \verb https://www.bbva.com/es/salud-financiera/cualidades-buen-asesoramiento-financiero/
       \endverb
     \endentry
-    \entry{BBVA01}{online}{}{}
+    \entry{BBVA05}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
            family={{Banco Bilbao Vizcaya Argentaria}},
@@ -393,6 +393,38 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es el balance general o de situación de una empresa?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/salud-financiera/que-es-el-balance-general-o-de-situacion-de-una-empresa/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/salud-financiera/que-es-el-balance-general-o-de-situacion-de-una-empresa/
+      \endverb
+    \endentry
+    \entry{BBVA01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -421,10 +453,10 @@
       \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradate}{2}
+      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -2943,7 +2975,7 @@
       \verb https://www.bbva.com/es/salud-financiera/cualidades-buen-asesoramiento-financiero/
       \endverb
     \endentry
-    \entry{BBVA01}{online}{}{}
+    \entry{BBVA05}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
            family={{Banco Bilbao Vizcaya Argentaria}},
@@ -2961,6 +2993,38 @@
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{¿Qué es el balance general o de situación de una empresa?}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.bbva.com/es/salud-financiera/que-es-el-balance-general-o-de-situacion-de-una-empresa/
+      \endverb
+      \verb{url}
+      \verb https://www.bbva.com/es/salud-financiera/que-es-el-balance-general-o-de-situacion-de-una-empresa/
+      \endverb
+    \endentry
+    \entry{BBVA01}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0688ef4a8c9c10cb9f68377b60737a31}{%
+           family={{Banco Bilbao Vizcaya Argentaria}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{fullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{bibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorbibnamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
+      \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -2989,10 +3053,10 @@
       \strng{authornamehash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhash}{0688ef4a8c9c10cb9f68377b60737a31}
       \strng{authorfullhashraw}{0688ef4a8c9c10cb9f68377b60737a31}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradate}{2}
+      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}

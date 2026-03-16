@@ -105,21 +105,42 @@
 \contentsline {subsection}{Estudio ambiental}{101}{Item.21}%
 \contentsline {subsubsection}{Impactos ambientales}{102}{section*.72}%
 \contentsline {subsubsection}{Políticas ambientales}{103}{table.caption.73}%
-\contentsline {section}{Plan de Negocios}{104}{table.caption.73}%
-\contentsline {subsection}{Matriz PEYEA}{104}{section*.74}%
-\contentsline {subsubsection}{Dimensión interna}{108}{Item.27}%
-\contentsline {paragraph}{Fortalezas financieras}{108}{Item.27}%
-\contentsline {paragraph}{Ventajas competitivas}{109}{table.12}%
-\contentsline {subsubsection}{Dimensión externa}{109}{table.13}%
-\contentsline {paragraph}{Fortaleza industrial}{109}{table.13}%
-\contentsline {paragraph}{Estabilidad del ambiente}{110}{table.14}%
-\contentsline {subsubsection}{Resultados matriz PEYEA}{111}{table.15}%
-\contentsline {subsubsection}{Análisis de Resultados y Directrices Estratégicas}{112}{figure.caption.76}%
-\contentsline {subsection}{Matriz DOFA}{113}{figure.caption.76}%
-\contentsline {subsection}{Análisis DOFA}{116}{figure.caption.78}%
-\contentsline {subsubsection}{Estrategias FO (Fortalezas-Oportunidades)}{116}{section*.79}%
-\contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{116}{section*.79}%
-\contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{117}{section*.79}%
-\contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{117}{section*.79}%
-\contentsline {section}{Anexos}{118}{section*.79}%
-\contentsline {section}{Referencias}{120}{table.caption.81}%
+\contentsline {section}{Análisis Financiero}{104}{table.caption.73}%
+\contentsline {subsection}{Inversión inicial}{104}{section*.74}%
+\contentsline {subsection}{Establecimiento}{105}{table.caption.75}%
+\contentsline {subsubsection}{Activos fijos tangibles}{105}{section*.76}%
+\contentsline {subsubsection}{Activos fijos intangibles}{105}{table.caption.77}%
+\contentsline {subsubsection}{Activos fijos intangibles}{106}{table.caption.78}%
+\contentsline {subsubsection}{Financiamiento}{106}{table.caption.79}%
+\contentsline {subsection}{Ingresos y egresos}{106}{table.caption.80}%
+\contentsline {subsubsection}{Ingresos}{106}{section*.81}%
+\contentsline {subsubsection}{Egresos}{107}{table.caption.82}%
+\contentsline {subsection}{Proyección de ventas}{108}{table.caption.83}%
+\contentsline {subsection}{Amortización y depreciación}{109}{table.caption.85}%
+\contentsline {subsubsection}{Préstamo}{109}{section*.86}%
+\contentsline {subsubsection}{Amortización}{109}{table.caption.87}%
+\contentsline {subsubsection}{Depreciación}{110}{table.caption.88}%
+\contentsline {subsection}{Balance general}{110}{table.caption.89}%
+\contentsline {subsection}{Estado de resultados}{112}{table.caption.90}%
+\contentsline {subsection}{Flujo de caja}{113}{table.caption.91}%
+\contentsline {subsection}{Flujo de efectivo}{114}{table.caption.92}%
+\contentsline {subsection}{Punto de equilibrio}{115}{table.caption.93}%
+\contentsline {subsection}{Indicadores financieros}{117}{table.caption.97}%
+\contentsline {section}{Plan de Negocios}{119}{table.caption.100}%
+\contentsline {subsection}{Matriz PEYEA}{119}{section*.101}%
+\contentsline {subsubsection}{Dimensión interna}{123}{Item.27}%
+\contentsline {paragraph}{Fortalezas financieras}{123}{Item.27}%
+\contentsline {paragraph}{Ventajas competitivas}{124}{table.34}%
+\contentsline {subsubsection}{Dimensión externa}{125}{table.35}%
+\contentsline {paragraph}{Fortaleza industrial}{125}{table.35}%
+\contentsline {paragraph}{Estabilidad del ambiente}{125}{table.36}%
+\contentsline {subsubsection}{Resultados matriz PEYEA}{126}{table.37}%
+\contentsline {subsubsection}{Análisis de Resultados y Directrices Estratégicas}{127}{figure.caption.103}%
+\contentsline {subsection}{Matriz DOFA}{128}{figure.caption.103}%
+\contentsline {subsection}{Análisis DOFA}{131}{figure.caption.105}%
+\contentsline {subsubsection}{Estrategias FO (Fortalezas-Oportunidades)}{131}{section*.106}%
+\contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{131}{section*.106}%
+\contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{132}{section*.106}%
+\contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{132}{section*.106}%
+\contentsline {section}{Anexos}{133}{section*.106}%
+\contentsline {section}{Referencias}{135}{table.caption.108}%
