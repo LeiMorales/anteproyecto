@@ -3236,11 +3236,17 @@
     <bcf:citekey order="159" intorder="1">Ley1360</bcf:citekey>
     <bcf:citekey order="160" intorder="1">ISO9000</bcf:citekey>
     <bcf:citekey order="161" intorder="1">ISO9001</bcf:citekey>
-    <bcf:citekey order="162" intorder="1">Decreto1360</bcf:citekey>
-    <bcf:citekey order="163" intorder="1">ISO9001</bcf:citekey>
-    <bcf:citekey order="164" intorder="1">ISO14001</bcf:citekey>
-    <bcf:citekey order="165" intorder="1">ISO14001</bcf:citekey>
-    <bcf:citekey order="166" intorder="1">BBVA05</bcf:citekey>
+    <bcf:citekey order="162" intorder="1">ISO10008</bcf:citekey>
+    <bcf:citekey order="163" intorder="1">ISO20000</bcf:citekey>
+    <bcf:citekey order="164" intorder="1">ISO22301</bcf:citekey>
+    <bcf:citekey order="165" intorder="1">ISO27001</bcf:citekey>
+    <bcf:citekey order="166" intorder="1">ISO27002</bcf:citekey>
+    <bcf:citekey order="167" intorder="1">Decreto1360</bcf:citekey>
+    <bcf:citekey order="168" intorder="1">ISO9001</bcf:citekey>
+    <bcf:citekey order="169" intorder="1">ISO14001</bcf:citekey>
+    <bcf:citekey order="170" intorder="1">ISO14001</bcf:citekey>
+    <bcf:citekey order="171" intorder="1">BBVA05</bcf:citekey>
+    <bcf:citekey order="172" intorder="1">Microbank01</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

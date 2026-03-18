@@ -103,7 +103,7 @@
 \contentsline {subsubsection}{Permisos y licencias requeridos}{99}{Item.21}%
 \contentsline {subsubsection}{Normas técnicas y de calidad}{100}{Item.21}%
 \contentsline {subsection}{Estudio ambiental}{101}{Item.21}%
-\contentsline {subsubsection}{Impactos ambientales}{102}{section*.72}%
+\contentsline {subsubsection}{Impactos ambientales}{103}{section*.72}%
 \contentsline {subsubsection}{Políticas ambientales}{103}{table.caption.73}%
 \contentsline {section}{Análisis Financiero}{104}{table.caption.73}%
 \contentsline {subsection}{Inversión inicial}{104}{section*.74}%
@@ -112,8 +112,8 @@
 \contentsline {subsubsection}{Activos fijos intangibles}{105}{table.caption.77}%
 \contentsline {subsubsection}{Activos fijos intangibles}{106}{table.caption.78}%
 \contentsline {subsubsection}{Financiamiento}{106}{table.caption.79}%
-\contentsline {subsection}{Ingresos y egresos}{106}{table.caption.80}%
-\contentsline {subsubsection}{Ingresos}{106}{section*.81}%
+\contentsline {subsection}{Ingresos y egresos}{107}{table.caption.80}%
+\contentsline {subsubsection}{Ingresos}{107}{section*.81}%
 \contentsline {subsubsection}{Egresos}{107}{table.caption.82}%
 \contentsline {subsection}{Proyección de ventas}{108}{table.caption.83}%
 \contentsline {subsection}{Amortización y depreciación}{109}{table.caption.85}%
@@ -142,5 +142,10 @@
 \contentsline {subsubsection}{Estrategias DO (Debilidades-Oportunidades)}{131}{section*.106}%
 \contentsline {subsubsection}{Estrategias FA (Fortalezas-Amenazas)}{132}{section*.106}%
 \contentsline {subsubsection}{Estrategias DA (Debilidades-Amenazas)}{132}{section*.106}%
-\contentsline {section}{Anexos}{133}{section*.106}%
-\contentsline {section}{Referencias}{135}{table.caption.108}%
+\contentsline {section}{Análisis de Riesgo}{132}{section*.106}%
+\contentsline {subsection}{Factores limitantes}{133}{section*.107}%
+\contentsline {subsection}{Factores claves de éxito}{134}{Item.31}%
+\contentsline {subsection}{Riesgos legales}{135}{Item.36}%
+\contentsline {subsection}{Riesgos operacionales}{136}{Item.39}%
+\contentsline {section}{Anexos}{137}{Item.42}%
+\contentsline {section}{Referencias}{139}{table.caption.109}%
