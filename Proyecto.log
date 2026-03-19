@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.17)  18 MAR 2026 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.11.17)  18 MAR 2026 20:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3098,7 +3098,7 @@ Package logreq Info: Writing requests to 'Proyecto.run.xml'.
 Here is how much of TeX's memory you used:
  29001 strings out of 467538
  558734 string characters out of 5423724
- 1481340 words of memory out of 5000000
+ 1482340 words of memory out of 5000000
  56921 multiletter control sequences out of 15000+600000
  646502 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3111,7 +3111,7 @@ pe1/urw/courier/ucrr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/ut
 mb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texl
 ive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dis
 t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Proyecto.pdf (165 pages, 3686490 bytes).
+Output written on Proyecto.pdf (165 pages, 3686394 bytes).
 PDF statistics:
  2173 PDF objects out of 2487 (max. 8388607)
  1862 compressed objects within 19 object streams
