@@ -3247,6 +3247,14 @@
     <bcf:citekey order="170" intorder="1">ISO14001</bcf:citekey>
     <bcf:citekey order="171" intorder="1">BBVA05</bcf:citekey>
     <bcf:citekey order="172" intorder="1">Microbank01</bcf:citekey>
+    <bcf:citekey order="173" intorder="1">Belkhir2018</bcf:citekey>
+    <bcf:citekey order="174" intorder="1">Belkhir2018</bcf:citekey>
+    <bcf:citekey order="175" intorder="1">DANE01</bcf:citekey>
+    <bcf:citekey order="176" intorder="1">RevistaCIES01</bcf:citekey>
+    <bcf:citekey order="177" intorder="1">BancadeOportunidades01</bcf:citekey>
+    <bcf:citekey order="178" intorder="1">BancadeOportunidades01</bcf:citekey>
+    <bcf:citekey order="179" intorder="1">Asobancaria01</bcf:citekey>
+    <bcf:citekey order="180" intorder="1">Asobancaria01</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

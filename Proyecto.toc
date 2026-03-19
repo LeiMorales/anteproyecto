@@ -147,5 +147,10 @@
 \contentsline {subsection}{Factores claves de éxito}{134}{Item.31}%
 \contentsline {subsection}{Riesgos legales}{135}{Item.36}%
 \contentsline {subsection}{Riesgos operacionales}{136}{Item.39}%
-\contentsline {section}{Anexos}{137}{Item.42}%
-\contentsline {section}{Referencias}{139}{table.caption.109}%
+\contentsline {section}{Impactos}{137}{Item.42}%
+\contentsline {subsection}{Impactos sociales}{137}{section*.108}%
+\contentsline {subsection}{Impactos ambientales}{138}{section*.108}%
+\contentsline {subsection}{Impactos económicos}{139}{section*.108}%
+\contentsline {subsection}{Impactos tecnológicos}{140}{section*.108}%
+\contentsline {section}{Anexos}{142}{section*.108}%
+\contentsline {section}{Referencias}{144}{table.caption.110}%
